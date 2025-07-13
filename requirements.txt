@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow==2.19.0
+numpy
+pandas
+scipy
+noisereduce
+librosa==0.11.0
+python-multipart

@@ -1,0 +1,1001 @@
+track_id,title,genre_top,artist_name,license,subset,duration,listens,split
+2,Food,Hip-Hop,AWOL,CC BY-NC-SA,small,168,1293,training
+5,This World,Hip-Hop,AWOL,CC BY-NC-SA,small,206,1151,training
+148,Blackout 2,Experimental,Contradiction,CC BY-NC-SA,small,138,1831,validation
+190,Castle Of Stars,Folk,Ed Askew,CC BY-NC-SA,small,249,945,training
+193,Here With You,Folk,Ed Askew,CC BY-NC-SA,small,254,824,training
+194,All I want to Do,Folk,Ed Askew,CC BY-NC-SA,small,192,754,training
+197,Piano 2,Folk,Ed Askew,CC BY-NC-SA,small,68,833,training
+200,Baby Come Home,Folk,Ed Askew,CC BY-NC-SA,small,194,772,training
+203,Song For R,Folk,Ed Askew,CC BY-NC-SA,small,195,603,training
+204,My Dream,Folk,Ed Askew,CC BY-NC-SA,small,324,688,training
+207,Piano 3,Folk,Ed Askew,CC BY-NC-SA,small,96,609,training
+210,In the French Court,Folk,Ed Askew,CC BY-NC-SA,small,184,1824,training
+211,In America,Folk,Ed Askew,CC BY-NC-SA,small,247,1714,training
+212,When I Arive,Folk,Ed Askew,CC BY-NC-SA,small,230,551,training
+213,Boute,Pop,Au,CC BY-NC-SA,small,247,1148,training
+255,We Want to be Old,Rock,Bird Names,CC BY-NC-SA,small,182,4495,training
+256,Toggle,Rock,Black Elk,CC BY-NC-SA,small,202,2311,training
+424,The Ambient Honky,Experimental,Brian Joseph Davis,CC BY-NC-SA,small,76,3562,training
+459,Machines and Muscles,Rock,CAVE,CC BY-NC-SA,small,301,7765,validation
+534,I Can See You,Folk,Charles Manson,CC BY-NC-SA,small,80,614,training
+540,The Black Pirate,Folk,Charles Manson,CC BY-NC-SA,small,309,835,training
+546,If You Have No One,Folk,Charles Manson,CC BY-NC-SA,small,319,741,training
+574,Caliente Queen,Rock,Clockcleaner,CC BY-NC-SA,small,267,2617,training
+602,Disappearing,Folk,Dora Bleu,CC BY-NC-SA,small,445,660,validation
+615,"Immaterial, side A",Experimental,EKG,CC BY-NC-SA,small,519,1019,training
+620,Arabesque,Folk,Ed Askew,CC BY-NC-SA,small,205,922,training
+621,Blue Eyed Baby,Folk,Ed Askew,CC BY-NC-SA,small,161,678,training
+625,Climbing To The Top,Folk,Ed Askew,CC BY-NC-SA,small,234,655,training
+666,Heat,International,Explode Into Colors,CC BY-NC-SA,small,235,1902,training
+667,Sharpen The Knife,International,Explode Into Colors,CC BY-NC-SA,small,246,2005,training
+676,The Tension,Hip-Hop,Fanatic,CC BY-NC-SA,small,197,1225,training
+690,Cataclysm,Rock,Flying Luttenbachers,CC BY-NC-SA,small,290,5724,validation
+694,Planet Say (featuring Faust),Hip-Hop,Food For Animals,CC BY-NC-SA,small,291,7883,training
+695,Elephants,Hip-Hop,Food For Animals,CC BY-NC-SA,small,104,2826,training
+704,Mano De Dios,International,Fósforo,CC BY-NC-SA,small,310,2105,test
+705,Tio Cocodrilo,International,Fósforo,CC BY-NC-SA,small,369,2545,test
+706,Esto Es Califas,International,Fósforo,CC BY-NC-SA,small,312,1948,test
+707,Cochabamba,International,Fósforo,CC BY-NC-SA,small,330,1922,test
+708,Desconocido,International,Fósforo,CC BY-NC-SA,small,289,5007,test
+709,Cumbia De Obama,International,Fósforo,CC BY-NC-SA,small,192,3812,test
+714,Circle Moon,Folk,Fursaxa,CC BY-NC-SA,small,338,646,training
+715,Kokopelli,Folk,Fursaxa,CC BY-NC-SA,small,283,928,training
+716,Saxalainen,Folk,Fursaxa,CC BY-NC-SA,small,297,1252,training
+718,Song Of The Spindle Berry,Folk,Fursaxa,CC BY-NC-SA,small,128,3061,training
+777,Relaxing,Rock,Glove Compartment,CC BY-NC-SA,small,90,3247,training
+821,Sir,Pop,Hecuba,CC BY-NC-SA,small,200,438,training
+822,Tom & Jerry,Pop,Hecuba,CC BY-NC-SA,small,323,660,training
+825,Death March,Rock,Here Comes A Big Black Cloud!!,CC BY-NC-SA,small,83,2262,training
+853,Welsinsni Melodyi,International,Hutzl Ukranian Ensemble,CC BY-NC-SA,small,137,2374,training
+890,Softly Tomorrow,Folk,Ilyas Ahmed,CC BY-NC-SA,small,297,1966,test
+892,Phantom Sky,Folk,Ilyas Ahmed,CC BY-NC-SA,small,480,907,test
+897,02,Experimental,Infinite Body,CC BY-NC-SA,small,275,1708,training
+993,Or So I've Been Told,Rock,Jad Fair and Jason Willett,CC BY-NC-SA,small,86,3402,validation
+995,No Good Deed Goes Unpunished,Experimental,Kevin Shields,CC BY-NC-SA,small,298,2753,training
+997,Nothing's Ever Ending,Experimental,Kevin Shields,CC BY-NC-SA,small,520,1310,training
+998,Apparently,Experimental,Kevin Shields,CC BY-NC-SA,small,475,844,training
+1039,13 Monsters,Rock,Lightning Bolt,CC BY-NC-SA,small,169,3030,training
+1040,Dracula Mountain,Rock,Lightning Bolt,CC BY-NC-SA,small,310,2166,training
+1066,Helicopter de Cristal,Experimental,Lucky Dragons,CC BY-NC-SA,small,234,10700,test
+1069,Un Lagrima en la Discoteca,Experimental,Lucky Dragons,CC BY-NC-SA,small,110,5661,test
+1073,Onda Tocadisco,Experimental,Lucky Dragons,CC BY-NC-SA,small,93,3982,test
+1075,Painful Corazon,Experimental,Lucky Dragons,CC BY-NC-SA,small,62,4628,test
+1082,Nam Nhi-tu,International,M. Nguyen Van Minh-Con,CC BY-NC-SA,small,187,3761,training
+1083,Feasting on Energy,Experimental,Magic Lantern,CC BY-NC-SA,small,472,1278,training
+1087,Tell The Police The Truth,Rock,Mahjongg,CC BY-NC-SA,small,315,11275,validation
+1102,Rare Vodka from the Fourteenth Century,Rock,Mary Halvorson and Weasel Walter,CC BY-NC-SA,small,327,2998,training
+1249,"""Cleanse Bath"" 10"" Metal Laquer",Experimental,Nautical Almanac,CC BY-NC-SA,small,566,978,test
+1259,Rolling In The Green,Experimental,Nautical Almanac,CC BY-NC-SA,small,208,2740,test
+1270,Cocksuckerbastardmotherfucker,Rock,Necropolis,CC BY-NC-SA,small,149,3300,training
+1277,No Business,Experimental,Negativland,CC BY-NC-SA,small,253,1892,training
+1278,Downloading,Experimental,Negativland,CC BY-NC-SA,small,592,2556,training
+1417,Guns of Thunder,Rock,Pierced Arrows,CC BY-NC-SA,small,232,6911,training
+1427,I Feel Evils,Rock,Plastic Crimewave Sound,CC BY-NC-SA,small,248,2548,training
+1443,Time Fist,Experimental,Pocahaunted,CC BY-NC-SA,small,423,1336,training
+1482,Reindeer Dance,Electronic,Rainbro,CC BY-NC-SA,small,216,77299,training
+1510,Zombie,Experimental,Ric Royer &amp; G. Lucas Crane,CC BY-NC-SA,small,91,1768,training
+1642,Hrz,Pop,So Cow,CC BY-NC-SA,small,68,277,training
+1644,Outskirts,Pop,So Cow,CC BY-NC-SA,small,146,579,training
+1649,Inis Meain,Pop,So Cow,CC BY-NC-SA,small,139,673,training
+1661,Only Fools and Horses Theme,Pop,So Cow,CC BY-NC-SA,small,127,693,training
+1663,So High,Pop,Softboiled Eggies,CC BY-NC-SA,small,200,960,training
+1666,She Fell Through the Trees,Pop,Softboiled Eggies,CC BY-NC-SA,small,282,568,training
+1673,Track 07,Experimental,Solemn Man,CC BY-NC-SA,small,250,512,training
+1680,Bashraf Salama,International,The Sounds of Taraab,CC BY-NC-SA,small,436,1240,training
+1681,Daka Kozi Manowe,International,The Sounds of Taraab,CC BY-NC-SA,small,274,703,training
+1682,Nie Zama Nie Sema,International,The Sounds of Taraab,CC BY-NC-SA,small,354,1668,training
+1683,Mapenzi Matamu,International,The Sounds of Taraab,CC BY-NC-SA,small,312,518,training
+1684,Mahaba Wa Taka Nini,International,The Sounds of Taraab,CC BY-NC-SA,small,230,3288,training
+1685,Eni Wana Damu,International,The Sounds of Taraab,CC BY-NC-SA,small,308,517,training
+1686,Rufiji,International,The Sounds of Taraab,CC BY-NC-SA,small,374,657,training
+1687,"Lala, Mpenzi Lala",International,The Sounds of Taraab,CC BY-NC-SA,small,330,476,training
+1688,Sishituki,International,The Sounds of Taraab,CC BY-NC-SA,small,285,423,training
+1689,Unalo,International,The Sounds of Taraab,CC BY-NC-SA,small,543,500,training
+1701,Clouds,Folk,Spires That in the Sunset Rise,CC BY-NC-SA,small,386,543,training
+1702,Java Pop,Folk,Spires That in the Sunset Rise,CC BY-NC-SA,small,286,689,training
+1703,Equus Haar,Folk,Spires That in the Sunset Rise,CC BY-NC-SA,small,288,2845,training
+1704,Morning Song,Folk,Spires That in the Sunset Rise,CC BY-NC-SA,small,435,517,training
+1706,In the Pineys,Rock,Strapping Fieldhands,CC BY-NC-SA,small,175,2308,training
+1720,Harken Sunshine,Rock,Sun Araw,CC BY-NC-SA,small,269,3282,training
+1732,Black Jerusalem,Experimental,Teeth Mountain,CC BY-NC-SA,small,341,1030,training
+1733,Keinsein,Experimental,Teeth Mountain,CC BY-NC-SA,small,276,3544,training
+1735,Ghost Science,Experimental,Teeth Mountain,CC BY-NC-SA,small,132,3332,training
+1736,Soft Beast,Experimental,Teeth Mountain,CC BY-NC-SA,small,275,682,training
+1883,I Do What I Do,Rock,The Yolks,CC BY-NC-SA,small,158,2403,training
+1891,Kids In Cars,Rock,Thee Oh Sees,CC BY-NC-SA,small,303,4896,training
+1893,Memories,Folk,Tommy Jay,CC BY-NC-SA,small,202,753,validation
+1924,Calling For You,Folk,The Twin Atlas,CC BY-NC-SA,small,167,599,training
+1925,Happy At The Wheel,Folk,The Twin Atlas,CC BY-NC-SA,small,170,1017,training
+1929,Buzz Chant,Experimental,U.S. Girls,CC BY-NC-SA,small,216,4684,training
+1930,So Thereby...and furthermore...thus henceforth...Mono,Rock,Upsilon Acrux,CC BY-NC-SA,small,233,2464,training
+2012,The White Mice,Experimental,White Mice,CC BY-NC-SA,small,200,1383,validation
+2096,title unknown,Experimental,Grouper,CC BY-NC-SA,small,453,1019,training
+2099,....like bacon sundays,Pop,luc,CC BY-NC-SA,small,244,1106,training
+3263,A Date,Folk,Ai Aso,CC BY-NC-SA,small,208,952,validation
+3264,Tee Te Te,Folk,Ai Aso,CC BY-NC-SA,small,354,1178,validation
+3265,Lavender,Folk,Ai Aso,CC BY-NC-SA,small,171,598,validation
+3266,Land,Folk,Ai Aso,CC BY-NC-SA,small,248,550,validation
+3492,On The Wings,Rock,Citay,CC BY-NC-SA,small,286,2718,training
+3532,Heaven Is Human,Pop,Cryptacize,CC BY-NC-SA,small,170,2086,training
+3533,New Spell,Pop,Cryptacize,CC BY-NC-SA,small,242,765,training
+3534,Cosmic Sing-a-long,Pop,Cryptacize,CC BY-NC-SA,small,130,1461,training
+3535,No Coins,Pop,Cryptacize,CC BY-NC-SA,small,208,779,training
+3537,We'll Never Dream Again,Pop,Cryptacize,CC BY-NC-SA,small,247,537,training
+3538,Say You Will,Pop,Cryptacize,CC BY-NC-SA,small,210,652,training
+3573,Piggled,Electronic,Dan Deacon,CC BY-NC-SA,small,235,6678,training
+3598,Little Eyes,Folk,Ed Askew,CC BY-NC-SA,small,139,903,training
+3624,Days of Summer,Rock,Fallen Leaves,CC BY-NC-SA,small,184,2303,test
+3707,Stable the Spuds,Folk,Gary Higgins,CC BY-NC-SA,small,341,1726,training
+3708,Thicker Than A Smokey,Folk,Gary Higgins,CC BY-NC-SA,small,245,1525,training
+3720,Walking on the Water,Rock,Indian Jewelry,CC BY-NC-SA,small,240,6074,training
+3721,Pow Wow,Rock,Indian Jewelry,CC BY-NC-SA,small,318,3970,training
+3722,Swans,Rock,Indian Jewelry,CC BY-NC-SA,small,202,9378,training
+3724,Temporary Famine Ship,Rock,Indian Jewelry,CC BY-NC-SA,small,370,6095,training
+3725,West Alabama,Rock,Indian Jewelry,CC BY-NC-SA,small,289,4229,training
+3761,Improv,Rock,Kinski,CC BY-NC-SA,small,257,8178,training
+3762,Snowy Parts of Scandinavia,Rock,Kinski,CC BY-NC-SA,small,541,5603,training
+3763,Shelley Winters Overdrive,Rock,Kinski,CC BY-NC-SA,small,180,11532,training
+3765,Waves of Second Guessing,Rock,Kinski,CC BY-NC-SA,small,444,3704,training
+3766,Rhode Island Freakout,Rock,Kinski,CC BY-NC-SA,small,282,2979,training
+3775,Cumbia Infierno,International,La Troba Kung-Fu,CC BY-NC-SA,small,594,4795,training
+3776,La Canco de Lladre,International,La Troba Kung-Fu,CC BY-NC-SA,small,363,1831,training
+3777,Volant,International,La Troba Kung-Fu,CC BY-NC-SA,small,445,2375,training
+3778,Calor Calor,International,La Troba Kung-Fu,CC BY-NC-SA,small,258,4105,training
+3779,Rock Rumba,International,La Troba Kung-Fu,CC BY-NC-SA,small,423,3031,training
+3895,Invitita and de Cingheri from Transylvania,International,MetroFolk,CC BY-NC-SA,small,467,719,training
+3896,Gypsy Csardas and Men's Dances from Kalotaszeg,International,MetroFolk,CC BY-NC-SA,small,374,1453,training
+3904,Sometimes,Folk,Michael Chapman,CC BY-NC-SA,small,263,1869,training
+3905,Twisted Road,Folk,Michael Chapman,CC BY-NC-SA,small,508,1320,training
+3906,Sometimes,Folk,Michael Chapman,CC BY-NC-SA,small,264,1441,training
+3908,Caddo Lake,Folk,Michael Chapman,CC BY-NC-SA,small,337,999,training
+3909,Dewbury Road / That Time of Night,Folk,Michael Chapman,CC BY-NC-SA,small,410,1022,training
+3910,Kodak Ghosts,Folk,Michael Chapman,CC BY-NC-SA,small,361,1786,training
+3911,Dust Devils,Folk,Michael Chapman,CC BY-NC-SA,small,158,1334,training
+3912,Fahey's Flag,Folk,Michael Chapman,CC BY-NC-SA,small,218,944,training
+3913,Memhpis in Winter,Folk,Michael Chapman,CC BY-NC-SA,small,388,1475,training
+3920,Fragrant Rota,Folk,Michael Holt,CC BY-NC-SA,small,194,1384,training
+3921,Hiawatha's Lullaby,Folk,Michael Holt,CC BY-NC-SA,small,157,1449,training
+4013,Ravens,Folk,Nalle,CC BY-NC-SA,small,353,791,training
+4017,New Roots,Folk,Nalle,CC BY-NC-SA,small,403,611,training
+4022,Can't Tell No One,Rock,Negative Approach,CC BY-NC-SA,small,79,3079,validation
+4066,Soleade,Folk,Peter Walker,CC BY-NC-SA,small,255,412,training
+4067,Por Rosa,Folk,Peter Walker,CC BY-NC-SA,small,273,329,training
+4068,Alegrias Variation,Folk,Peter Walker,CC BY-NC-SA,small,341,649,training
+4069,Tune on Karen Dalton's Guitar,Folk,Peter Walker,CC BY-NC-SA,small,233,1693,training
+4091,1864,International,Polka Madre,CC BY-NC-SA,small,173,2850,training
+4092,Nina Olga Vodka,International,Polka Madre,CC BY-NC-SA,small,159,1952,training
+4093,Amsterdam,International,Polka Madre,CC BY-NC-SA,small,200,2211,training
+4094,Vida Propia,International,Polka Madre,CC BY-NC-SA,small,157,1301,training
+4095,Funeral Brahms,International,Polka Madre,CC BY-NC-SA,small,222,1887,training
+4096,La Fin Du Monde,International,Polka Madre,CC BY-NC-SA,small,195,1350,training
+4097,Clammy Hands,International,Polka Madre,CC BY-NC-SA,small,183,1305,training
+4098,Russo Trap,International,Polka Madre,CC BY-NC-SA,small,141,1582,training
+4099,Stalin's Head,International,Polka Madre,CC BY-NC-SA,small,205,1573,training
+4100,Gitanas Mojadas,International,Polka Madre,CC BY-NC-SA,small,184,4187,training
+4101,Karjalainen Tanssi,International,Polka Madre,CC BY-NC-SA,small,127,2158,training
+4102,Herasinkuoleena,International,Polka Madre,CC BY-NC-SA,small,201,2128,training
+4103,Circo Del Siglo,International,Polka Madre,CC BY-NC-SA,small,261,3365,training
+4108,New Wave Hippies,Rock,Psychedelic Horseshit,CC BY-NC-SA,small,132,8165,test
+4232,Bowmazan Ya Mahaba  Bi Kidude song ,International,The Sounds of Taraab,CC BY-NC-SA,small,393,4170,training
+4233,Interview,International,The Sounds of Taraab,CC BY-NC-SA,small,307,1758,training
+4234,Mapenzi Matamu,International,The Sounds of Taraab,CC BY-NC-SA,small,317,2716,training
+4235,Kanilemaza  Ikhwani Safaa,International,The Sounds of Taraab,CC BY-NC-SA,small,557,1897,training
+4236,Enyi Wana Damu  Sharmila and Black Star Orchestra,International,The Sounds of Taraab,CC BY-NC-SA,small,307,1760,training
+4239,Shishituki,International,The Sounds of Taraab,CC BY-NC-SA,small,294,5440,training
+4450,Adventures of Castle One,Folk,Twi the Humble Feather,CC BY-NC-SA,small,241,541,training
+4507,Mon Amant de St. Jean,International,Yan Yalego,CC BY-NC-SA,small,237,3765,training
+4508,Five Foot Two,International,Yan Yalego,CC BY-NC-SA,small,277,2087,training
+4509,Haricots,International,Yan Yalego,CC BY-NC-SA,small,215,2391,training
+4510,no title,International,Yan Yalego,CC BY-NC-SA,small,238,2322,training
+4511,Petit 'n Mwen,International,Yan Yalego,CC BY-NC-SA,small,313,3946,training
+4519,Golden,Electronic,High Places,CC BY-NC-SA,small,117,28728,training
+4520,From Stardust to Sentience,Electronic,High Places,CC BY-NC-SA,small,199,18365,training
+4521,Namer,Electronic,High Places,CC BY-NC-SA,small,184,23431,training
+4522,Oceanus,Electronic,High Places,CC BY-NC-SA,small,259,17222,training
+4682,Asylum (Permanent Underclass),Hip-Hop,Dälek,CC BY-NC-SA,small,337,3694,training
+4684,Eyes to Form Shadows,Hip-Hop,Dälek,CC BY-NC-SA,small,392,1707,training
+4685,Ever Somber,Hip-Hop,Dälek,CC BY-NC-SA,small,332,2770,training
+4688,Culture for Dollars,Hip-Hop,Dälek,CC BY-NC-SA,small,376,1086,training
+4777,Firecracker,Rock,Half Japanese,CC BY-NC-SA,small,183,11941,training
+4778,Too Much Fun,Rock,Half Japanese,CC BY-NC-SA,small,121,6931,training
+4779,Secret Admirer,Rock,Half Japanese,CC BY-NC-SA,small,149,2675,training
+4780,Too Much Adrenaline,Rock,Half Japanese,CC BY-NC-SA,small,76,4485,training
+4781,No Big Deal,Rock,Half Japanese,CC BY-NC-SA,small,131,3247,training
+4782,Thing With a Hook,Rock,Half Japanese,CC BY-NC-SA,small,165,2466,training
+4784,Rosemary's Baby,Rock,Half Japanese,CC BY-NC-SA,small,124,5091,training
+4785,I Know How It Feels...Bad,Rock,Half Japanese,CC BY-NC-SA,small,151,2795,training
+4786,"1,000,000 Kisses",Rock,Half Japanese,CC BY-NC-SA,small,120,2646,training
+4787,Nicole Told Me,Rock,Half Japanese,CC BY-NC-SA,small,165,2741,training
+4788,Fire To Burn,Rock,Half Japanese,CC BY-NC-SA,small,159,3340,training
+4799,I've Got a Love,Rock,Harvey Milk,CC BY-NC-SA,small,242,2570,training
+4835,Steak,Rock,Peelander-Z,CC BY-NC-SA,small,243,2530,training
+4836,Panda Punk Tongue,Rock,Peelander-Z,CC BY-NC-SA,small,214,2644,training
+4838,Punk Rock,Rock,Peelander-Z,CC BY-NC-SA,small,268,4430,training
+5006,"So Long, Silver Lining",Rock,New Bomb Turks,CC BY-NC-SA,small,121,5982,training
+5156,Circles,Folk,Peter Biedermann,CC BY-NC-SA,small,324,1864,training
+5157,Copenhagen,Folk,Peter Biedermann,CC BY-NC-SA,small,298,1447,training
+5158,Running,Folk,Peter Biedermann,CC BY-NC-SA,small,226,2854,training
+5159,Christiania,Folk,Peter Biedermann,CC BY-NC-SA,small,286,1475,training
+5169,The Uncommon Man,Folk,Peter Biedermann,CC BY-NC-SA,small,329,1608,training
+5170,Labyrinth,Folk,Peter Biedermann,CC BY-NC-SA,small,356,1973,training
+5171,Cover Up,Folk,Peter Biedermann,CC BY-NC-SA,small,199,2133,training
+5191,Say What You Feel,Pop,caUSE co-MOTION,CC BY-NC-SA,small,95,534,validation
+5264,Classical Homicide,Hip-Hop,Dälek,CC BY-NC-SA,small,431,1238,training
+5268,3 Rocks Blessed,Hip-Hop,Dälek,CC BY-NC-SA,small,260,4020,training
+5879,Rock and Tree,Folk,Bob Wiseman,CC BY-NC-SA,small,321,925,training
+5936,Traveling,Folk,Susanna,CC BY-NC-SA,small,207,2184,training
+5940,When It Rains,Folk,Howard Fishman,CC BY-NC-SA,small,184,900,training
+6329,Krivo Kopanitsa Horo,International,Sheqer,CC BY-NC-SA,small,225,918,training
+6330,Nie Zama Nie Sema,International,The Sounds of Taraab,CC BY-NC-SA,small,201,1317,training
+6331,track 1,International,Kavala Brass Band,CC BY-NC-SA,small,337,1617,validation
+6332,Taso's Hasapiko,International,Raya Brass Band,CC BY-NC-SA,small,344,602,training
+6333,track 01,International,Scott Wilson & Efendi,CC BY-NC-SA,small,277,1523,validation
+6342,Doulab Nahawand Murassaa,International,Zikrayat,CC BY-NC-SA,small,290,3589,training
+6354,Daka Koz,International,The Sounds of Taraab,CC BY-NC-SA,small,214,1015,training
+6357,Zaharoula,International,Raya Brass Band,CC BY-NC-SA,small,214,510,training
+6358,track 2,International,Kavala Brass Band,CC BY-NC-SA,small,287,762,validation
+6360,Sabah Sabah Seyredelim Yaliyi,International,Orkestra Keyif,CC BY-NC-SA,small,291,5002,training
+6363,track 02,International,Scott Wilson & Efendi,CC BY-NC-SA,small,350,1276,validation
+6367,"Manowe, Mahaba Wa Takanini, Mapenz",International,The Sounds of Taraab,CC BY-NC-SA,small,236,856,training
+6368,track 3,International,Kavala Brass Band,CC BY-NC-SA,small,196,1143,validation
+6370,Leventikos,International,Raya Brass Band,CC BY-NC-SA,small,342,382,training
+6372,track 03,International,Scott Wilson & Efendi,CC BY-NC-SA,small,274,1567,validation
+6373,Semseyemin Ucu Kare with Oud Solo by Haig Manoukian,International,Orkestra Keyif,CC BY-NC-SA,small,307,2598,training
+6376,track 4,International,Kavala Brass Band,CC BY-NC-SA,small,289,643,validation
+6379,Matamu Choz,International,The Sounds of Taraab,CC BY-NC-SA,small,303,1385,training
+6380,track 04,International,Scott Wilson & Efendi,CC BY-NC-SA,small,180,1675,validation
+6381,Kateva Lenko,International,Raya Brass Band,CC BY-NC-SA,small,294,745,training
+6382,Svadbeni Cocek,International,Sheqer,CC BY-NC-SA,small,390,1037,training
+6383,Telegrafin Tellerine,International,Orkestra Keyif,CC BY-NC-SA,small,312,4867,training
+6385,track 05,International,Scott Wilson & Efendi,CC BY-NC-SA,small,221,2138,validation
+6387,Karsilamas Hrysodaktili,International,Raya Brass Band,CC BY-NC-SA,small,211,1113,training
+6389,Kwala Ulala Huez,International,The Sounds of Taraab,CC BY-NC-SA,small,311,1716,training
+6390,track 5,International,Kavala Brass Band,CC BY-NC-SA,small,385,881,validation
+6394,Bufchansko,International,Sheqer,CC BY-NC-SA,small,443,493,training
+6396,Sarki,International,Sheqer,CC BY-NC-SA,small,440,615,training
+6406,The Hungry Stones,Folk,MV + EE,CC BY-NC-SA,small,157,1423,training
+6407,Huna Cosm,Folk,MV + EE,CC BY-NC-SA,small,429,655,training
+6439,Crossover,Hip-Hop,EPMD,CC BY-NC-SA,small,173,13720,training
+6440,Rampage,Hip-Hop,EPMD,CC BY-NC-SA,small,138,5193,training
+6442,Richter Scale,Hip-Hop,EPMD,CC BY-NC-SA,small,80,2423,training
+6443,Music,Hip-Hop,EPMD,CC BY-NC-SA,small,159,2635,training
+6448,Please Listen To My Demo,Hip-Hop,EPMD,CC BY-NC-SA,small,100,2233,training
+6461,Florida Rain,Folk,Matt Bauer,CC BY-NC-SA,small,153,1122,validation
+6463,Are You the One?,Folk,Matt Bauer,CC BY-NC-SA,small,198,596,validation
+6467,As She Came Out of  the Water,Folk,Matt Bauer,CC BY-NC-SA,small,186,589,validation
+6469,Derya'da Deryaliklar,International,Orkestra Keyif,CC BY-NC-SA,small,308,4145,training
+6517,Stars,Rock,Sakura Madams,CC BY-NC-SA,small,165,2771,training
+6519,Somebody To Love,Rock,Sakura Madams,CC BY-NC-SA,small,215,2564,training
+6603,The Woods,Hip-Hop,Height With Friends,CC BY-NC-SA,small,116,2088,training
+6605,Bad Weather,Hip-Hop,Height With Friends,CC BY-NC-SA,small,109,1795,training
+6606,Smash Your Eyes,Hip-Hop,Height With Friends,CC BY-NC-SA,small,153,1554,training
+6607,The World,Hip-Hop,Height With Friends,CC BY-NC-SA,small,124,1598,training
+6608,Cavalcade Lagoons,Hip-Hop,Height With Friends,CC BY-NC-SA,small,143,1160,training
+6609,2009,Hip-Hop,Height With Friends,CC BY-NC-SA,small,78,1725,training
+6610,Clack Struck Twelve,Hip-Hop,Height With Friends,CC BY-NC-SA,small,109,1185,training
+6611,Escape Tune,Hip-Hop,Height With Friends,CC BY-NC-SA,small,100,1628,training
+6762,Western States,Folk,Matt Bauer,CC BY-NC-SA,small,314,1760,validation
+6779,Castle By the Sea,Folk,Cath and Phil Tyler,CC BY-NC-SA,small,230,865,validation
+6782,Sunshine,Folk,Cath and Phil Tyler,CC BY-NC-SA,small,228,1355,validation
+6783,Fisherman's Girl,Folk,Cath and Phil Tyler,CC BY-NC-SA,small,195,693,validation
+6788,Tokugiri Star,Rock,Peelander-Z,CC BY-NC-SA,small,268,2759,training
+6802,Spanish Civil War Tribute,International,Watcha Clan,CC BY-NC-SA,small,182,4725,training
+6803,Balkan Qoulou,International,Watcha Clan,CC BY-NC-SA,small,280,2312,training
+6857,Drone Trailer,Folk,MV + EE and Willie Lane,CC BY-NC-SA,small,475,1460,training
+7373,heartbreaker,Experimental,Lucky Dragons,CC BY-NC-SA,small,126,4325,test
+7374,new homes,Experimental,Lucky Dragons,CC BY-NC-SA,small,112,3373,test
+7375,cherchez le dragon,Experimental,Lucky Dragons,CC BY-NC-SA,small,154,2555,test
+7376,about peter,Experimental,Lucky Dragons,CC BY-NC-SA,small,68,1418,test
+7377,with new trees,Experimental,Lucky Dragons,CC BY-NC-SA,small,66,2508,test
+7378,resurrect dead on planet jupiter,Experimental,Lucky Dragons,CC BY-NC-SA,small,128,1277,test
+7379,it's hard to fall asleep,Experimental,Lucky Dragons,CC BY-NC-SA,small,102,2252,test
+7381,i'd play at the rotunda,Experimental,Lucky Dragons,CC BY-NC-SA,small,108,979,test
+7383,i hear horrible music,Experimental,Lucky Dragons,CC BY-NC-SA,small,148,1847,test
+7385,my imaginary scary home,Experimental,Lucky Dragons,CC BY-NC-SA,small,83,11911,test
+7386,its hard to wake up,Experimental,Lucky Dragons,CC BY-NC-SA,small,163,930,test
+7388,girlworld (3 in a bed mix),Experimental,Lucky Dragons,CC BY-NC-SA,small,163,869,test
+7391,all these wires between us,Experimental,Lucky Dragons,CC BY-NC-SA,small,163,29134,test
+7393,leaving things as they are,Experimental,Lucky Dragons,CC BY-NC-SA,small,75,867,test
+7495,Soft South Africans,Rock,Homosexuals,CC BY-NC-SA,small,247,2900,training
+8056,Get It While You Can,Rock,The Dirtbombs,CC BY-NC-SA,small,151,1837,training
+8208,Rocket USA,Rock,Alan Vega & Oneida,CC BY-NC-SA,small,498,4017,training
+8256,Sugar In My Coffin,Folk,Curtis Eller,CC BY-NC-SA,small,206,1196,training
+8259,Always Sugar for the Horses,Folk,Curtis Eller,CC BY-NC-SA,small,179,786,training
+8261,Black Diamond,Folk,Curtis Eller,CC BY-NC-SA,small,286,615,training
+9152,1991,Experimental,dj smallcock,CC BY-NC-SA,small,213,1925,training
+9155,Tossypot,Experimental,Peeled Hearts Paste,CC BY-NC-SA,small,351,751,test
+9476,Plight Of The Bumblebee,Experimental,A Kombi,CC BY-NC-SA,small,382,1240,training
+9477,Colour Me Your Colour,Experimental,Justice Yeldham,CC BY-NC-SA,small,241,3004,training
+9491,Rape Me,Rock,Toxic Lipstick,CC BY-NC-SA,small,123,2433,training
+9505,168 Toronto 260305,Experimental,Justice Yeldham,CC BY-NC-SA,small,308,1145,training
+9511,Message From the Law,Rock,Sic Alps,CC BY-NC-SA,small,154,7401,training
+9512,Eywat Setenafegagn,International,Getatchew Mekuria &amp; The Ex &amp; Guests,CC BY-NC-SA,small,305,4248,training
+9513,Cold Water,Rock,Old Time Relijun,CC BY-NC-SA,small,478,9844,training
+9550,Slippershell,Rock,Kristin Hersh,CC BY-NC-SA,small,304,3393,validation
+9553,Morning Birds,Rock,Kristin Hersh,CC BY-NC-SA,small,362,2293,validation
+9555,Krait,Rock,Kristin Hersh,CC BY-NC-SA,small,334,2795,validation
+9557,Moan,Rock,Kristin Hersh,CC BY-NC-SA,small,297,3567,validation
+9559,Mississippi Kite,Rock,Kristin Hersh,CC BY-NC-SA,small,288,3264,validation
+9560,Fortune,Rock,Kristin Hersh,CC BY-NC-SA,small,256,2825,validation
+9678,Riboflavin Horror,Experimental,Volvox,CC BY-NC-SA,small,185,1785,training
+9721,Track 01,Experimental,Justice Yeldham,CC BY-NC-SA,small,413,1601,training
+9887,All I Ever Wanted,Folk,Meg Baird,CC BY-NC-SA,small,215,1446,training
+9888,Cross,Folk,James Blackshaw,CC BY-NC-SA,small,508,3065,training
+9918,Scorpion Whip,Experimental,Sissy Spacek,CC BY-NC-SA,small,231,1544,training
+9962,Amour,Rock,Avec Noir,CC BY-NC-SA,small,168,2528,training
+10186,Love To C You Dance (Premixed),International,Dubyouth Soundsystem,CC BY-NC-SA,small,295,1873,training
+10192,Fucking Exotic Bitches,Hip-Hop,The Professional Savage,CC BY-NC-SA,small,360,2052,training
+10374,Into the Fog,Experimental,Sodadosa,CC BY-NC-SA,small,318,1536,training
+10375,Torturing Mantra,Experimental,Sodadosa,CC BY-NC-SA,small,131,1370,training
+10376,Low Nightmare,Experimental,Sodadosa,CC BY-NC-SA,small,166,951,training
+10377,Abandoned,Experimental,Sodadosa,CC BY-NC-SA,small,355,4111,training
+10381,Baron in the Trees,Folk,Big Blood,CC BY-NC-SA,small,268,1515,test
+10382,New Dish Rag,Folk,Big Blood,CC BY-NC-SA,small,126,993,test
+10383,Graceless Lady,Folk,Big Blood,CC BY-NC-SA,small,528,1456,test
+10384,Blood Mumble,Folk,Big Blood,CC BY-NC-SA,small,326,1032,test
+10385,Curee,Folk,Big Blood,CC BY-NC-SA,small,121,828,test
+10386,The Birds &amp; The Herds,Folk,Big Blood,CC BY-NC-SA,small,440,1032,test
+10387,Tease it Like a Cop,Folk,Big Blood,CC BY-NC-SA,small,278,702,test
+10388,Night Lighter,Folk,Big Blood,CC BY-NC-SA,small,255,894,test
+10389,Terrapin (oh! syd),Folk,Big Blood,CC BY-NC-SA,small,137,789,test
+10435,Paku Paku,Experimental,Funky Terrorist,CC BY-NC-SA,small,144,876,training
+10438,Little Lepers,Folk,Big Blood,CC BY-NC-SA,small,85,929,test
+10439,In The Light Of The Moon,Folk,Big Blood,CC BY-NC-SA,small,296,1005,test
+10440,No Gravity Blues,Folk,Big Blood,CC BY-NC-SA,small,144,868,test
+10441,In The Shade,Folk,Big Blood,CC BY-NC-SA,small,265,830,test
+10442,Something Brighter Than The News,Folk,Big Blood,CC BY-NC-SA,small,315,968,test
+10443,Beast (1 Beast),Folk,Big Blood,CC BY-NC-SA,small,164,686,test
+10444,Restless Purity,Folk,Big Blood,CC BY-NC-SA,small,363,651,test
+10447,Low Gravity Blues,Folk,Big Blood,CC BY-NC-SA,small,344,869,test
+10458,Highway,Folk,Uke of Spaces Corners,CC BY-NC-SA,small,371,886,training
+10521,boys boys boys,Experimental,Sabrina,CC BY-NC-SA,small,217,9393,training
+10527,r u serious,Experimental,Funky Terrorist,CC BY-NC-SA,small,265,869,training
+10535,azaria vs the spaceman,Experimental,Scratch My Nose,CC BY-NC-SA,small,77,966,training
+10541,.,Experimental,Sports bra,CC BY-NC-SA,small,68,2568,training
+10575,Premonitions: The Fantasy,Folk,Bobb Trimble,CC BY-NC-SA,small,362,1424,training
+10577,One Mile From Heaven (short version),Folk,Bobb Trimble,CC BY-NC-SA,small,250,1434,training
+10668,"999,999",Rock,Nine Inch Nails,CC BY-NC-SA,small,85,6484,training
+10669,"1,000,000",Rock,Nine Inch Nails,CC BY-NC-SA,small,236,5372,training
+10670,Letting You,Rock,Nine Inch Nails,CC BY-NC-SA,small,229,3671,training
+10671,Discipline,Rock,Nine Inch Nails,CC BY-NC-SA,small,259,6438,training
+10672,Echoplex,Rock,Nine Inch Nails,CC BY-NC-SA,small,285,3133,training
+10673,Head Down,Rock,Nine Inch Nails,CC BY-NC-SA,small,295,2880,training
+10674,Lights in the Sky,Rock,Nine Inch Nails,CC BY-NC-SA,small,209,3236,training
+10675,Corona Radiata,Rock,Nine Inch Nails,CC BY-NC-SA,small,453,2205,training
+10676,The Four of Us are Dying,Rock,Nine Inch Nails,CC BY-NC-SA,small,277,2292,training
+10677,Demon Seed,Rock,Nine Inch Nails,CC BY-NC-SA,small,299,3189,training
+10678,Glory Daze,Folk,Big Blood,CC BY-NC-SA,small,427,855,test
+10679,The Rise Of Quinnisa Rose,Folk,Big Blood,CC BY-NC-SA,small,348,762,test
+10682,She Said Nothing,Folk,Big Blood,CC BY-NC-SA,small,429,675,test
+10684,Don't Trust The Ruin,Folk,Big Blood,CC BY-NC-SA,small,434,598,test
+10805,Super Nude,Pop,Lesbian Afternoon,CC BY-NC-SA,small,232,42200,training
+10806,Glowing Pavements,Pop,Lesbian Afternoon,CC BY-NC-SA,small,143,20697,training
+10807,Three Owls Teahaus,Pop,Lesbian Afternoon,CC BY-NC-SA,small,207,36157,training
+10808,Wind Up The Hypnotist,Pop,Lesbian Afternoon,CC BY-NC-SA,small,191,30663,training
+10809,Pass That Joint,Pop,Lesbian Afternoon,CC BY-NC-SA,small,212,28250,training
+10810,Under The Sunset,Pop,Lesbian Afternoon,CC BY-NC-SA,small,301,22822,training
+10983,Track 02,Experimental,Justice Yeldham,CC BY-NC-SA,small,314,1317,training
+10992,The Grove Is Hotter Than An Ocean's Oven,Folk,Big Blood,CC BY-NC-SA,small,362,1673,test
+10993,Oh Country (Skin &amp; Bones),Folk,Big Blood,CC BY-NC-SA,small,321,1540,test
+11019,Mirror Friends,Experimental,Lucky Dragons,CC BY-NC-SA,small,127,11512,test
+11020,Morning Ritual,Experimental,Lucky Dragons,CC BY-NC-SA,small,141,7198,test
+11199,Love Is An Eternal Lie,Pop,The Sleeping Tree,CC BY-NC-SA,small,191,1300,training
+11234,290504 beirut,Experimental,Justice Yeldham,CC BY-NC-SA,small,240,1426,training
+11237,270104 berlin,Experimental,Justice Yeldham,CC BY-NC-SA,small,335,1253,training
+11239,hamar 261005,Experimental,Justice Yeldham,CC BY-NC-SA,small,280,1064,training
+11242,280405 seoul,Experimental,Justice Yeldham,CC BY-NC-SA,small,357,1463,training
+11261,India,Pop,Mira Cook,CC BY-NC-SA,small,224,554,training
+11306,Inspiration,Rock,Abunai!,CC BY-NC-SA,small,320,2604,training
+11333,Instrumental,Experimental,Gen Ken Montgomery,CC BY-NC-SA,small,159,655,training
+11334,Instrumental,Experimental,Gen Ken Montgomery,CC BY-NC-SA,small,90,904,training
+11503,All Operations,Folk,Big Blood,CC BY-NC-SA,small,506,734,test
+11504,A Friendly Noose,Folk,Big Blood,CC BY-NC-SA,small,189,619,test
+11505,A Quiet Lousy Roar,Folk,Big Blood,CC BY-NC-SA,small,322,778,test
+11508,Under The Concourse,Folk,Big Blood,CC BY-NC-SA,small,430,442,test
+11544,Radiation,Experimental,The Lost Demension,CC BY-NC-SA,small,306,677,training
+11638,Romantic Neck Tattoo,Instrumental,Embarker,CC BY-NC-SA,small,155,1460,training
+11671,Abre La Ventana,International,Cordero,CC BY-NC-SA,small,175,1315,training
+11672,(intro),International,Cordero,CC BY-NC-SA,small,176,590,training
+11673,El Arco Iris,International,Cordero,CC BY-NC-SA,small,158,1079,training
+11674,(chat w/ Rob Weisberg),International,Cordero,CC BY-NC-SA,small,197,401,training
+11675,La Sombra,International,Cordero,CC BY-NC-SA,small,140,984,training
+11677,Quique,International,Cordero,CC BY-NC-SA,small,198,720,training
+11679,Ruleta Rusa,International,Cordero,CC BY-NC-SA,small,215,993,training
+11681,Heart In Me,International,Cordero,CC BY-NC-SA,small,286,642,training
+11682,(chat w/ Rob Weisberg),International,Cordero,CC BY-NC-SA,small,139,451,training
+11683,Matadora,International,Cordero,CC BY-NC-SA,small,288,1278,training
+11803,D'Evils 2008,Hip-Hop,Talib Kweli,CC BY-NC-SA,small,135,7253,validation
+11818,Future Music,Hip-Hop,It's Notherground Music!!,CC BY-NC-SA,small,209,1663,training
+11839,Belief feat. John Mayer,Hip-Hop,6th Sense &amp; Mick Boogie,CC BY-NC-SA,small,210,1517,training
+11861,Nike Boots Freestyle,Hip-Hop,6th Sense &amp; Mick Boogie,CC BY-NC-SA,small,132,1289,training
+11862,05 A-Trak &amp; Lupe Fiasco feat. 6th Sense - Me &amp; My Sneakers.mp3,Hip-Hop,6th Sense &amp; Mick Boogie,CC BY-NC-SA,small,224,1243,training
+11867,Team USA (prod. Just Blaze),Hip-Hop,6th Sense &amp; Mick Boogie,CC BY-NC-SA,small,130,2239,training
+11868,Classic Freestyle,Hip-Hop,6th Sense &amp; Mick Boogie,CC BY-NC-SA,small,167,1062,training
+11916,comedi humaine,Hip-Hop,WatFatMan,CC BY,small,273,1141,training
+11917,court metrage,Hip-Hop,WatFatMan,CC BY,small,246,819,training
+11918,deprecie,Hip-Hop,WatFatMan,CC BY,small,223,5074,training
+11919,galerie de portraits,Hip-Hop,WatFatMan,CC BY,small,243,1663,training
+11920,Ofura,Hip-Hop,WatFatMan,CC BY,small,294,1392,training
+11921,l'air du temps live,Hip-Hop,WatFatMan,CC BY,small,134,984,training
+11922,galerie de portraits remix,Hip-Hop,WatFatMan,CC BY,small,198,1303,training
+12045,The WInds House,Folk,Big Blood,CC BY-NC-SA,small,462,2010,test
+12046,Well Water,Folk,Big Blood,CC BY-NC-SA,small,232,2106,test
+12047,Comin' Home Pt. I,Folk,Big Blood,CC BY-NC-SA,small,298,1234,test
+12048,She Sells Sanctuary,Folk,Big Blood,CC BY-NC-SA,small,248,1677,test
+12049,"On a Sunday, Years After",Folk,Big Blood,CC BY-NC-SA,small,214,1039,test
+12050,Echohead,Folk,Big Blood,CC BY-NC-SA,small,284,982,test
+12051,Comin' Home Pt. II,Folk,Big Blood,CC BY-NC-SA,small,213,895,test
+12052,Breath in a Seed,Folk,Big Blood,CC BY-NC-SA,small,403,831,test
+12053,Land Upon Mud II,Folk,Big Blood,CC BY-NC-SA,small,366,743,test
+12058,Land Upon Mud I,Folk,Big Blood,CC BY-NC-SA,small,358,817,test
+12059,Brotha-o-Brotha-o-,Folk,Big Blood,CC BY-NC-SA,small,189,688,test
+12060,Heart of Glass,Folk,Big Blood,CC BY-NC-SA,small,364,1255,test
+12061,Do Insects Sleep?,Folk,Big Blood,CC BY-NC-SA,small,120,883,test
+12062,Sleepin' Time,Folk,Big Blood,CC BY-NC-SA,small,125,642,test
+12064,Beatle Bones 'N' Smokin' Stones,Folk,Big Blood,CC BY-NC-SA,small,226,734,test
+12065,So Old Again,Folk,Big Blood,CC BY-NC-SA,small,237,640,test
+12066,Apes &amp; History (Swimmin in Paper),Folk,Big Blood,CC BY-NC-SA,small,294,910,test
+12067,For Four Beating Lungs,Folk,Big Blood,CC BY-NC-SA,small,246,634,test
+12146,Kokoro (I Fall To Pieces),Pop,The Slants,CC BY-NC-SA,small,251,999,training
+12147,Capture Me Burning,Pop,The Slants,CC BY-NC-SA,small,234,950,training
+12174,Ode To Charles,Hip-Hop,Professor Kliq,CC BY-SA,small,249,2923,training
+12179,U Fine,Pop,Garmisch,CC BY-SA,small,273,5440,test
+12346,The Lion King,Experimental,Grey Gersten &amp; G. Lucas Crane,CC BY-NC-SA,small,512,1510,training
+12376,"Good Morning, Bubblegum",Pop,The Harvey Girls,CC BY-NC-SA,small,237,1076,training
+12390,Varal,Pop,Pipo Pegoraro,CC BY-NC-SA,small,220,1188,test
+12481,Haystack (A.P.),Folk,Big Blood,CC BY-NC-SA,small,491,1039,test
+12482,She Said Nothing II,Folk,Big Blood,CC BY-NC-SA,small,256,604,test
+12484,Frost Farm,Folk,Big Blood,CC BY-NC-SA,small,361,782,test
+12485,Got Wings?,Folk,Big Blood,CC BY-NC-SA,small,255,583,test
+12486,I'm So Glad,Folk,Big Blood,CC BY-NC-SA,small,97,591,test
+12487,So Po Swing,Folk,Big Blood,CC BY-NC-SA,small,335,860,test
+12488,Moon Perfume,Folk,Big Blood,CC BY-NC-SA,small,244,627,test
+12489,'Preese 'Preese,Folk,Big Blood,CC BY-NC-SA,small,266,843,test
+12490,I've Been A Baby All My Life (I Hope You Don't Expect A Man),Folk,Big Blood,CC BY-NC-SA,small,226,623,test
+12518,When you walk,Pop,Pipo Pegoraro,CC BY-NC-SA,small,241,1641,test
+12521,Never Get Out,Rock,Brad Sucks,CC BY-NC-SA,small,122,8596,test
+12526,Time (Reprise) (Closing Credits),Hip-Hop,Virtu-oso,CC BY-SA,small,201,3030,validation
+12527,Solid Ground,Pop,Poxfil,CC BY-NC-SA,small,304,814,validation
+12530,Stalker,Pop,You Are My Everything,CC BY-NC-SA,small,331,981,training
+12531,Que Le Hip-Hop Renaisse,Hip-Hop,Empathik,CC BY-NC-SA,small,184,3026,training
+12537,Maree Lunaire,Pop,Smoking After,CC BY-NC-SA,small,265,1050,training
+12985,Barleycorn and Toblerone,Folk,Nick Jaina,CC BY-NC-SA,small,139,2503,training
+12986,I Will Swallow The Sea,Folk,Nick Jaina,CC BY-NC-SA,small,200,1398,training
+13191,Outside To Play,Pop,Emily In Love,CC BY-NC-SA,small,226,740,training
+13325,Methylchloroisothiazolinone,Rock,Josh Woodward,CC BY-NC-SA,small,240,2891,training
+13474,Then,Electronic,Black Era,CC BY-NC-SA,small,213,4190,validation
+13556,Let Me Go,Rock,STEEP,CC BY-SA,small,128,5049,validation
+13562,It's Not Jazzz,Electronic,Maniax Memori,CC BY-NC-SA,small,221,4252,training
+13596,Insane,Rock,b-Shake,CC BY-SA,small,343,6409,training
+13670,Nada P Flojos,Hip-Hop,Raflesia,CC BY-NC-SA,small,190,1146,training
+13706,Love Crime (Qwertypak Venom Remix),Electronic,Goto80,CC BY-NC-SA,small,195,15374,test
+13707,For Newspress,Electronic,Goto80,CC BY-NC-SA,small,242,16115,test
+13708,Disk Machine,Electronic,Goto80,CC BY-NC-SA,small,116,15485,test
+13709,Member,Electronic,Goto80,CC BY-NC-SA,small,91,9894,test
+13710,Love Crime,Electronic,Goto80,CC BY-NC-SA,small,228,17037,test
+13711,Disk Machine (Sky Pole Remix),Electronic,Goto80,CC BY-NC-SA,small,161,16125,test
+13804,Life's A Beach,Hip-Hop,The Professional Savage,CC BY-NC-SA,small,478,1272,training
+14653,Bad Sign,Rock,Brad Sucks,CC BY-SA,small,232,16854,test
+14690,Givers,Experimental,Lucky Dragons,CC BY-NC-SA,small,215,9758,test
+14733,Mania,Rock,Throwing Muses,CC BY-NC-SA,small,201,7625,test
+14734,Shark,Rock,Throwing Muses,CC BY-NC-SA,small,156,9714,test
+14735,Start,Rock,Throwing Muses,CC BY-NC-SA,small,186,7065,test
+14736,Hazing,Rock,Throwing Muses,CC BY-NC-SA,small,214,5976,test
+14737,Speed and Sleep,Rock,Throwing Muses,CC BY-NC-SA,small,310,8592,test
+14738,Devil's Roof,Rock,Throwing Muses,CC BY-NC-SA,small,219,10366,test
+14739,Say Goodbye,Rock,Throwing Muses,CC BY-NC-SA,small,236,8508,test
+14740,Tar Kissers,Rock,Throwing Muses,CC BY-NC-SA,small,207,6794,test
+14741,Limbo,Rock,Throwing Muses,CC BY-NC-SA,small,256,5935,test
+14742,Bright Yellow Gun,Rock,Throwing Muses,CC BY-NC-SA,small,210,24276,test
+14743,Vicky's Box,Rock,Throwing Muses,CC BY-NC-SA,small,331,14435,test
+14744,Bea,Rock,Throwing Muses,CC BY-NC-SA,small,256,13986,test
+14745,Pearl,Rock,Throwing Muses,CC BY-NC-SA,small,316,9396,test
+14809,The New Year,Folk,Sebastien Duclos,CC BY-NC-SA,small,228,1190,training
+15625,Chion's Cricket,Experimental,Jim Lee,CC BY-NC-SA,small,364,1568,training
+15880,Taishikichô Chôshi,International,Kokusai Bunka Shinkokai,CC BY-NC-SA,small,191,14622,training
+16095,YOU GOT THE POWER,Pop,MEGA*CHURCH,CC BY-NC-SA,small,257,566,training
+16162,Rock da Dam (Featuring Portformat),Hip-Hop,Comfort Fit,CC BY-SA,small,231,1814,training
+16163,11:11,Pop,Christopher Joel,CC BY-NC-SA,small,276,434,training
+16334,Kapi Radja (Ape King),International,Peliatan Gamelan,CC BY-NC-SA,small,184,9141,training
+16337,Falling,Pop,Twizzle,CC BY-NC-SA,small,269,715,test
+16338,Black Elk Mountain,Pop,Twizzle,CC BY-NC-SA,small,263,1100,test
+16339,This Is No Chanson,Pop,Twizzle,CC BY-NC-SA,small,155,562,test
+16340,Barefoot Girl/ Pebble Road,Pop,Twizzle,CC BY-NC-SA,small,179,833,test
+16354,Rose of Los Angeles,Rock,Michael Gira,CC BY-NC-SA,small,249,2390,training
+16743,Laare,International,Salam,CC BY-NC-SA,small,516,2561,training
+16744,Drogue,International,Salam,CC BY-NC-SA,small,428,2525,training
+16745,Tara,International,Salam,CC BY-NC-SA,small,435,3376,training
+16747,Kairo,International,Salam,CC BY-NC-SA,small,446,4821,training
+16819,Mission Bucharest,Rock,Pharaos,CC BY-NC-SA,small,139,13053,training
+16820,Investigation,Rock,Pharaos,CC BY-NC-SA,small,230,10074,training
+16821,The Pharaos' Theme,Rock,Pharaos,CC BY-NC-SA,small,109,25077,training
+16822,Warzaw Express,Rock,Pharaos,CC BY-NC-SA,small,210,17792,training
+16878,Angular Momentum,Hip-Hop,Pre,CC BY-NC-SA,small,85,2262,training
+16879,Yesterday,Hip-Hop,Pre,CC BY-NC-SA,small,97,3992,training
+16880,Lampion,Hip-Hop,Pre,CC BY-NC-SA,small,99,2242,training
+16895,American Standard,Pop,Matt Carlson,CC BY-NC-SA,small,500,542,validation
+16994,First Christmas Song,Rock,Tusk Lord,CC BY-NC-SA,small,273,2368,test
+16995,Second Christmas Song,Rock,Tusk Lord,CC BY-NC-SA,small,66,2530,test
+16997,Third Christmas Song,Rock,Tusk Lord,CC BY-NC-SA,small,254,2217,test
+17462,Baby With A Bamboo Heart,Rock,Soul Celtics,CC BY-NC-SA,small,110,5447,training
+17573,For Two Glitching Organs,Experimental,Ilya Monosov,CC BY-NC-SA,small,377,875,training
+17588,Beach Foam,Electronic,Future Islands,CC BY-NC-SA,small,219,3253,training
+17631,Jaliya,International,Jalikebba Kuyateh and the Toubabs,CC BY-NC-SA,small,316,2819,training
+17632,N' Latéla,International,Jalikebba Kuyateh and the Toubabs,CC BY-NC-SA,small,293,2089,training
+17633,Caira,International,Jalikebba Kuyateh and the Toubabs,CC BY-NC-SA,small,312,2613,training
+17634,M.Samba,International,Jalikebba Kuyateh and the Toubabs,CC BY-NC-SA,small,331,4760,training
+17635,Signolu,International,Jalikebba Kuyateh and the Toubabs,CC BY-NC-SA,small,244,2288,training
+17636,Griot and the Family,International,Jalikebba Kuyateh and the Toubabs,CC BY-NC-SA,small,458,3477,training
+17637,Bamba Bojang,International,Jalikebba Kuyateh and the Toubabs,CC BY-NC-SA,small,311,4691,training
+17735,Ecstatic Rite,Rock,Liturgy,CC BY-NC-SA,small,284,3753,training
+17906,I Want You Pretty,Pop,Learning Music,CC BY-NC-SA,small,213,879,training
+18144,cocktail lady,Pop,Funky Terrorist,CC BY-NC-SA,small,184,1176,training
+18145,2 scratchy 2 dance,Pop,Funky Terrorist,CC BY-NC-SA,small,357,953,training
+18146,go! go !go!,Pop,Funky Terrorist,CC BY-NC-SA,small,208,1310,training
+18159,Just Your Game,Folk,The Friendly Dimension,CC BY-NC-SA,small,155,665,training
+18887,Best Friend,Rock,Seek Six Sick,CC BY-NC-SA,small,306,2781,training
+19192,Until the Sea Shall Free Them,Experimental,Tom Carter,CC BY-NC-SA,small,385,8075,training
+19412,Kyoto Melody,Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,162,1316,training
+19413,Cinnamon Walls,Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,189,668,training
+19415,Warm Hands,Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,140,433,training
+19416,Cut Grass,Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,203,416,training
+19417,City Turtles,Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,153,448,training
+19418,PAIO PIRES-CACILHAS (Directo),Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,96,3499,training
+19420,"Take Me Out Tonight, I Want To See The Stars",Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,166,1110,training
+19422,Nothing Happens,Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,280,463,training
+19423,Flamingo,Pop,Orquestra Popular De Paio Pires,CC BY-NC-SA,small,172,548,training
+19441,Resolutions (Chris Summer Remix),Pop,Entertainment for the Braindead,CC BY-NC-SA,small,314,1291,training
+19442,Tongue Tied,Pop,Paper Navy,CC BY-NC-SA,small,201,1698,training
+19459,Medley 1,International,Djarara,CC BY-NC-SA,small,398,1624,training
+19729,Hot Boxing The Cockpit,Hip-Hop,Shlohmo,CC BY-NC-SA,small,215,23744,training
+19758,Row,Pop,Dirty Mittens,CC BY-NC-SA,small,204,608,training
+19759,Let It Go,Pop,Dirty Mittens,CC BY-NC-SA,small,301,2414,training
+19760,Fish in the Sea,Pop,Dirty Mittens,CC BY-NC-SA,small,403,908,training
+20050,Let's Go Down,Rock,Family Of The Year,CC BY-NC-SA,small,229,2419,training
+20296,Part 3,Experimental,Sikhara,CC BY-NC-SA,small,267,68678,test
+20704,Crack For Hippies,Pop,Appetite,CC BY-NC-SA,small,271,504,training
+20818,03 The Wedding Ring,Experimental,Harrius,CC BY-NC-SA,small,354,1815,validation
+21058,Titanic Sofas,Experimental,Sore & Steal,CC BY-NC-SA,small,330,1279,training
+21672,Bad Love,Pop,Guidance Counselor,CC BY-NC-SA,small,287,560,training
+21676,Life is Glass,Pop,Guidance Counselor,CC BY-NC-SA,small,160,533,training
+21677,I Don't Wanna Speak,Pop,Guidance Counselor,CC BY-NC-SA,small,237,488,training
+21774,Dutch East Indies,Experimental,Snawklor,CC BY-NC-SA,small,333,1155,training
+21842,Tam814,Electronic,LJ Kruzer,CC BY-NC-SA,small,499,3369,training
+21859,Alchemy Lab,Rock,Paint and Copter,CC BY-NC-SA,small,188,3751,training
+21860,Everyone Wins,Rock,Paint and Copter,CC BY-NC-SA,small,206,2940,training
+22094,I Remember When,Hip-Hop,Gates,CC BY-SA,small,256,2762,training
+22150,The Horror Approaches,Experimental,Jeff McLeod,CC BY-NC-SA,small,153,2067,validation
+23013,Bust This Bust That,Electronic,Professor Kliq,CC BY-NC-SA,small,268,37252,training
+23037,Chinese Drop,Rock,major Major,CC BY-NC-SA,small,191,2727,training
+23039,First Comes Rug Burn Then Comes Fire,Pop,Pinkle,CC BY-NC-SA,small,208,568,training
+23155,Bouchon (with Les Gauchers Quintet),International,Lee Maddeford,CC BY-NC-SA,small,109,5011,training
+23156,Biens souvent (with Les Gauchers Quintet),International,Lee Maddeford,CC BY-NC-SA,small,66,6211,training
+23329,Sexual Vulnurability,Experimental,Tony Conrad,CC BY-NC-SA,small,174,1244,validation
+23353,Eigenvalue Subspace Decomposition,Electronic,Choc,CC BY-NC-SA,small,298,23394,training
+24216,Bleached Beach,Experimental,Noveller,CC BY-NC-SA,small,380,4148,training
+24217,Redgrave,Experimental,Noveller,CC BY-NC-SA,small,414,1792,training
+24218,Under the Color Cave,Experimental,Noveller,CC BY-NC-SA,small,434,1823,training
+25104,Black Cat Veins,Pop,Bombay Laughing Club,CC BY-NC-SA,small,206,462,training
+25124,Bridge Jumping,Pop,Bombay Laughing Club,CC BY-NC-SA,small,247,450,training
+26298,"Slow Down, Joe",Pop,Karl Blau,CC BY-NC-SA,small,162,640,training
+26301,The Dance Of The Sugar Plumb Fairy,Experimental,Karl Blau,CC BY-NC-SA,small,206,1131,training
+26302,Ode To Demons,Folk,Karl Blau,CC BY-NC-SA,small,321,626,training
+26307,96,Experimental,Karl Blau,CC BY-NC-SA,small,293,1024,training
+26322,Gnos Levohs,Experimental,Karl Blau,CC BY-NC-SA,small,249,2493,training
+26464,Falling Off the Map,Folk,Spectre Folk,CC BY-NC-SA,small,344,1238,training
+26465,Toot! Toot!,Folk,Spectre Folk,CC BY-NC-SA,small,312,970,training
+26466,Burning Bridge,Folk,Spectre Folk,CC BY-NC-SA,small,333,799,training
+26583,"""Jane Icin (For Jane - In Turkish)"" by Charles Bukowski",Experimental,Lezet,CC BY-NC-SA,small,298,1268,training
+26600,"""(Me up at does)"" by E. E. Cummings",Experimental,Lezet,CC BY-NC-SA,small,68,1123,training
+26605,"""Ella Fitzgerald"" by James A. Emanuel",Experimental,Lezet,CC BY-NC-SA,small,90,65239,training
+26629,Heroic Hexa Epic,Electronic,NOISE64,CC BY-NC-SA,small,320,3660,training
+26638,02,Rock,Flowerheads,CC BY-NC-SA,small,160,3426,training
+26639,03,Rock,Flowerheads,CC BY-NC-SA,small,150,3565,training
+26640,04,Rock,Flowerheads,CC BY-NC-SA,small,77,2824,training
+26641,05,Rock,Flowerheads,CC BY-NC-SA,small,130,2613,training
+26642,06,Rock,Flowerheads,CC BY-NC-SA,small,148,5529,training
+26643,07,Rock,Flowerheads,CC BY-NC-SA,small,129,5474,training
+26651,Deep Sky Blue,Electronic,Graphiqs Groove,CC BY-NC-SA,small,378,154579,training
+26652,Bleuacide,Electronic,Graphiqs Groove,CC BY-NC-SA,small,313,19870,training
+26653,Yellow Ocher,Electronic,Graphiqs Groove,CC BY-NC-SA,small,394,5340,training
+26654,Midnight Blue JzDnB,Electronic,Graphiqs Groove,CC BY-NC-SA,small,268,4956,training
+26655,Frosty Blue,Electronic,Graphiqs Groove,CC BY-NC-SA,small,379,5221,training
+26656,Sea Green,Electronic,Graphiqs Groove,CC BY-NC-SA,small,330,5715,training
+26657,Reed Gray,Electronic,Graphiqs Groove,CC BY-NC-SA,small,299,3938,training
+26658,Burn Tumber JzDnB,Electronic,Graphiqs Groove,CC BY-NC-SA,small,302,3829,training
+26659,Cyanos,Electronic,Graphiqs Groove,CC BY-NC-SA,small,330,4322,training
+26754,Alarm Clock,Pop,Tiny Creatures,CC BY-NC-SA,small,60,1201,training
+26765,Everybody Is Happy,Pop,Tiny Creatures,CC BY-NC-SA,small,70,629,training
+26859,ruby cactus,Electronic,"I, Cactus",CC BY-NC-SA,small,120,27159,test
+26861,yellow cactus,Electronic,"I, Cactus",CC BY-NC-SA,small,95,5367,test
+26902,The Hit,Electronic,Goto80,CC BY-NC-SA,small,105,21643,test
+26904,Boys Say Only You feat. Yazoo,Electronic,Goto80,CC BY-NC-SA,small,151,18342,test
+26905,Viking Conquistador feat. Acid Terrorist,Electronic,Goto80,CC BY-NC-SA,small,118,14962,test
+26906,Invader Tune,Electronic,Goto80,CC BY-NC-SA,small,195,40727,test
+27164,thisis a humalong (feat. featherbeard),Pop,Rhoda,CC BY-NC-SA,small,332,878,training
+27194,Barcelona Afrobeat 07,International,Barcelona Afrobeat International Orchestra,CC BY-NC-SA,small,503,2030,training
+27195,Barcelona Afrobeat 01,International,Barcelona Afrobeat International Orchestra,CC BY-NC-SA,small,520,2313,training
+27197,Barcelona Afrobeat 03,International,Barcelona Afrobeat International Orchestra,CC BY-NC-SA,small,574,2146,training
+27198,Barcelona Afrobeat 04,International,Barcelona Afrobeat International Orchestra,CC BY-NC-SA,small,560,2130,training
+27454,Track 1,Experimental,Sun Araw,CC BY-NC-SA,small,391,3267,training
+27455,Track 2,Experimental,Sun Araw,CC BY-NC-SA,small,267,1396,training
+27456,Track 3,Experimental,Sun Araw,CC BY-NC-SA,small,297,1885,training
+27547,I'm a Sir,Pop,Frau,CC BY-NC-SA,small,205,1331,training
+27548,Mesin Penenun Hujan,Pop,Frau,CC BY-NC-SA,small,206,1676,training
+27549,Rat and Cat,Pop,Frau,CC BY-NC-SA,small,206,1326,training
+27550,Sepasang Kekasih Yang Pertama Bercinta Di Luar Angkasa,Pop,Frau,CC BY-NC-SA,small,388,1076,training
+27551,"Salahku, Sahabatku",Pop,Frau,CC BY-NC-SA,small,270,773,training
+27552,Glow,Pop,Frau,CC BY-NC-SA,small,154,1261,training
+27673,Marche pour la cérémonie turque,Electronic,Bacalao,CC BY-NC-SA,small,167,3364,training
+28179,Raise Riddim,Electronic,I.D. & Baobinga,CC BY-NC-SA,small,207,7115,test
+28548,summer,Electronic,General Fuzz,CC BY-NC-SA,small,326,13302,training
+29045,I Want You,Pop,Buffalo Stance,CC BY-NC-SA,small,290,707,training
+29128,gymnosperm,Pop,Jim Morisson mon cul,CC BY-NC-SA,small,124,857,training
+29180,mamido,Pop,Charlene Darling,CC BY-NC-SA,small,201,481,training
+29243,Blue Hardrock Spasm,Pop,Benjamin Bret,CC BY-NC-SA,small,169,1069,training
+29245,The Angel,Pop,Benjamin Bret,CC BY-NC-SA,small,151,466,training
+29255,Lounge Light,Pop,Benjamin Bret,CC BY-NC-SA,small,348,1125,training
+29271,Discount Store,Pop,Dan Bryk,CC BY-NC-SA,small,260,999,training
+29272,Cycle Fragment,Experimental,Ergo Phizmiz,CC BY-NC-SA,small,338,1034,training
+29480,Fighting Challenge,Folk,Falcao and Monashee,CC BY-NC-SA,small,148,682,training
+29587,The Story Of Mr Busalot Trailer (Bonus Track),Hip-Hop,Mr. Busalot,CC BY-NC-SA,small,65,2043,training
+29602,L'Automne En Amour,Hip-Hop,KenLo Craqnuques,CC BY-NC-SA,small,213,21902,training
+29673,I.C.,Electronic,Listen With Sarah,CC BY-NC-SA,small,164,16895,training
+29718,Controlled Relaxation,Hip-Hop,Codex Machine,CC BY-NC-SA,small,422,1819,training
+29719,Man vs. Monkey,Hip-Hop,Codex Machine,CC BY-NC-SA,small,283,1266,training
+29720,S.P.Y.,Hip-Hop,Codex Machine,CC BY-NC-SA,small,263,1910,training
+29721,You Can Never Escape The Underground,Hip-Hop,Codex Machine,CC BY-NC-SA,small,276,3887,training
+29738,Just Say Booger (Brody and the Booger Brigade),Experimental,Brody,CC BY-NC-SA,small,188,4809,training
+29739,Big Blue Day,Experimental,Uncle Neptune,CC BY-NC-SA,small,135,9460,training
+29740,The Jagables,Experimental,Kazoo Funk Orchestra,CC BY-NC-SA,small,83,5109,training
+29741,Il Circo Smorfioso,Experimental,A Smile for Timbuctu,CC BY-NC-SA,small,191,5278,training
+29742,Penguin and Sea Lion,Experimental,El Zoologico,CC BY-NC-SA,small,120,5871,training
+29744,All You Need Is Toys,Experimental,Rufus Hofbagger,CC BY-NC-SA,small,205,4186,training
+29745,Spunky Left Two Three,Experimental,The Bran Flakes,CC BY-NC-SA,small,148,3594,training
+29746,Dont Let Sheep Play The Piano (Lee and Sheep),Experimental,Lee Rosevere,CC BY-NC-SA,small,136,4124,training
+29747,Padi Badi Bap (Mister Jan and His Singing Little Spiders),Experimental,Mister Jan,CC BY-NC-SA,small,157,2566,training
+29750,The Little Monkey Song,Experimental,Pastor McPurvis,CC BY-NC-SA,small,62,3754,training
+29752,Row Row Row Your Boat (Mister Jan),Experimental,Mister Jan,CC BY-NC-SA,small,115,4690,training
+30486,gneiss,Pop,Amil Byleckie,CC BY-NC-SA,small,194,796,training
+30487,probably digging my own grave,Pop,Amil Byleckie,CC BY-NC-SA,small,182,710,training
+30488,that face you wear,Pop,Amil Byleckie,CC BY-NC-SA,small,215,1132,training
+30682,Daymare (Meth Lounge mix by Fez Dispenser),Experimental,Boom Dispenser,CC BY-NC-SA,small,285,1417,validation
+30740,Part IV,Experimental,Paul Metzger,CC BY-NC-SA,small,462,1162,training
+31040,Hallon,Electronic,Christian Bjoerklund,CC BY-NC-SA,small,294,171269,training
+31041,5,Electronic,Christian Bjoerklund,CC BY-NC-SA,small,275,6690,training
+31042,FB-01_#2,Electronic,Christian Bjoerklund,CC BY-NC-SA,small,232,5174,training
+31043,The Professor's Lab,Electronic,Christian Bjoerklund,CC BY-NC-SA,small,262,6913,training
+31044,In The Belly Of Gorgul,Electronic,Christian Bjoerklund,CC BY-NC-SA,small,187,5128,training
+31568,Morning News,Electronic,Nameless Dancers,CC BY-NC-SA,small,180,4581,validation
+31807,Oh Eve,Folk,Fuck Buddies,CC BY-NC-SA,small,203,3067,training
+32218,Happy Sun,Electronic,Monokle & Galun,CC BY-NC-SA,small,182,7831,training
+32325,Krime,Pop,Plushgoolash,CC BY-NC-SA,small,216,2061,training
+32326,Spatabit,Pop,Plushgoolash,CC BY-NC-SA,small,178,1241,training
+32327,Mr Head Talks About His Testic,Pop,Plushgoolash,CC BY-NC-SA,small,112,1630,training
+32328,A Frog's Cheese,Pop,Plushgoolash,CC BY-NC-SA,small,202,1164,training
+32329,Elephant Juice,Pop,Plushgoolash,CC BY-NC-SA,small,236,1068,training
+32330,Happy Birthday to Your Mother,Pop,Plushgoolash,CC BY-NC-SA,small,93,4394,training
+32331,My Purple Shirt,Pop,Plushgoolash,CC BY-NC-SA,small,229,815,training
+32332,Les,Pop,Plushgoolash,CC BY-NC-SA,small,239,643,training
+32333,Bride of Chucky,Pop,Plushgoolash,CC BY-NC-SA,small,240,835,training
+32334,Brown Rainbows,Pop,Plushgoolash,CC BY-NC-SA,small,229,721,training
+32335,Legs on a Wine Glass,Pop,Plushgoolash,CC BY-NC-SA,small,134,642,training
+32336,Blatant Drunken Lies,Pop,Plushgoolash,CC BY-NC-SA,small,60,1011,training
+32337,I Invented Everything,Pop,Plushgoolash,CC BY-NC-SA,small,156,615,training
+32338,Bad Boy,Pop,Plushgoolash,CC BY-NC-SA,small,172,787,training
+32339,The Crap Lion,Pop,Plushgoolash,CC BY-NC-SA,small,85,614,training
+32340,A Man Called Dave,Pop,Plushgoolash,CC BY-NC-SA,small,144,583,training
+32433,Wake Up,Electronic,Crazy Games,CC BY-NC-SA,small,196,5107,training
+32435,Password,Electronic,Go Gadget,CC BY-NC-SA,small,132,4607,test
+32437,Healing,Electronic,Big Bang Boom,CC BY-NC-SA,small,149,4019,training
+32438,Go! Go! Go!,Electronic,You Kill My Brother,CC BY-NC-SA,small,273,4659,training
+32439,Chased By A Running Chupacabra,Electronic,Son Of A Bit!,CC BY-NC-SA,small,231,5195,training
+32755,Teknical Development,Hip-Hop,Anitek,CC BY-NC-SA,small,170,1084,training
+32756,Ninety Days,Folk,Robin Grey,CC BY-NC-SA,small,216,941,validation
+32760,Bury The Doubt,Pop,Christophe Marc,CC BY-NC-SA,small,229,916,training
+33203,African Era,Electronic,Maryos,CC BY-NC-SA,small,307,4801,training
+33278,Rails,Experimental,Bing and Ruth,CC BY-NC-SA,small,482,1132,training
+33415,Folklore Inca-Qheswa,International,runa simi language singer,CC BY-NC-SA,small,113,1315,training
+33422,DIANA      Quiñota   Chumbivilcas(2),International,BANDA TIPICA LOS AUTENTICOS DE MARKA MARKA,CC BY-NC-SA,small,228,1152,training
+33424,???,International,las Salcabambinitas,CC BY-NC-SA,small,143,1147,training
+33426,CANTOS DE LAS JOVENES,International,CONCHACCOTA PROGRESO GRAU,CC BY-NC-SA,small,182,1354,training
+33538,Roka,Rock,Calexico,CC BY-NC-SA,small,323,5639,training
+34003,On Eerie Bonds,Experimental,Andrij Orel,CC BY-NC-SA,small,271,1178,training
+34510,Section 5,Experimental,Cecilia Lopez,CC BY-NC-SA,small,394,620,training
+34511,Vilse (Slutet Cover),Pop,Symfoniorkestern,CC BY-NC-SA,small,168,1514,training
+35443,Song With No Name,Folk,Leonard Mynx,CC BY-NC-SA,small,319,6500,training
+35444,Wick,Experimental,James Beaudreau,CC BY-NC-SA,small,123,7159,training
+35462,Solo improvisation,Experimental,MV Carbon,CC BY-NC-SA,small,210,1586,validation
+35527,Downtown,Rock,Lorenzo's Music,CC BY-SA,small,147,3857,training
+35534,Feed The One,Rock,Lorenzo's Music,CC BY-SA,small,176,3553,training
+35535,Old Old Story,Rock,Lorenzo's Music,CC BY-SA,small,191,2583,training
+35537,Indian Summer,Rock,Lorenzo's Music,CC BY-SA,small,136,7238,training
+35539,Oh Oh Oh,Rock,Lorenzo's Music,CC BY-SA,small,165,3187,training
+35541,After All That's Happened,Rock,Lorenzo's Music,CC BY-SA,small,141,2280,training
+35543,It Could Be You,Rock,Lorenzo's Music,CC BY-SA,small,216,2476,training
+35569,Education After Auschwitz (Bonus Track),Electronic,Ion (Romania),CC BY-NC-SA,small,292,3779,test
+35571,Dunebuggy,Rock,Marvelry Skimmer,CC BY-NC-SA,small,291,6614,training
+35734,Animateur commercial intime,Folk,James Franc-Parler,CC BY-NC-SA,small,71,1377,training
+36143,Beautiful Android,Electronic,Kink Slap Simian,CC BY-NC-SA,small,199,5421,training
+36144,Apollo Wakes,Electronic,Shatterfreak,CC BY-NC-SA,small,271,5499,training
+36145,In a Dream Where I'm Sleeping,Electronic,Shatterfreak,CC BY-NC-SA,small,261,10363,training
+36146,In The Face Of,Electronic,Shatterfreak,CC BY-NC-SA,small,266,5232,training
+36147,PMoos - Champagne Dreamz (Shatterfreak's 0% Alcohol Remix),Electronic,Shatterfreak,CC BY-NC-SA,small,253,4119,training
+36245,::Intro,Electronic,mo-seph,CC BY-NC-SA,small,99,3399,validation
+36257,::Flowers,Electronic,mo-seph,CC BY-NC-SA,small,88,41804,validation
+36258,Contact,Electronic,mo-seph,CC BY-NC-SA,small,436,14419,validation
+36261,Audhumla,Electronic,mo-seph,CC BY-NC-SA,small,479,4323,validation
+36272,"Competition Rehearsal, Song 1",International,Demiran Ćerimović and His Orkestar,CC BY-NC-SA,small,194,2149,training
+36273,"Competition Rehearsal, Song 2",International,Demiran Ćerimović and His Orkestar,CC BY-NC-SA,small,251,1265,training
+36275,"Restaurant Concert, Song 1",International,Demiran Ćerimović and His Orkestar,CC BY-NC-SA,small,205,1354,training
+36277,"Restaurant Concert, Song 2",International,Demiran Ćerimović and His Orkestar,CC BY-NC-SA,small,209,994,training
+36302,Horn's for breakfast,Hip-Hop,Asthmatic Astronaut,CC BY-NC-SA,small,177,3493,test
+36304,the cherry tree,Hip-Hop,Burning Bright,CC BY-NC-SA,small,163,1895,training
+36371,U.G.L.Y. (CC BY-NC-SA 3.0),Pop,ZOE.LEELA,CC BY-NC-SA,small,217,1158,training
+36380,Cybernator (CC BY-NC-SA 3.0),Electronic,Pixelord,CC BY-NC-SA,small,237,4979,training
+36560,09 jungle,Pop,Manuel J Grotesk,CC BY-NC-SA,small,207,711,validation
+36614,sCare bears,Pop,Amil Byleckie,CC BY-NC-SA,small,113,554,training
+36615,Owl be yours,Pop,Amil Byleckie,CC BY-NC-SA,small,159,434,training
+36616,three horses,Pop,Amil Byleckie,CC BY-NC-SA,small,108,616,training
+36618,the deceptive time machine,Pop,Amil Byleckie,CC BY-NC-SA,small,101,497,training
+36643,Desperate Den of Snakes,Pop,Amil Byleckie,CC BY-NC-SA,small,76,502,training
+36659,Lucky,Electronic,All India Radio,CC BY-NC-SA,small,196,16910,training
+36799,Tanah,Experimental,Rully Shabara & Wukir,CC BY-NC-SA,small,186,935,test
+36983,B.,Hip-Hop,Black Ant,CC BY-NC-SA,small,90,2997,training
+36984,Natural Organics,Hip-Hop,Black Ant,CC BY-NC-SA,small,62,3749,training
+36985,Mother Earth,Hip-Hop,Black Ant,CC BY-NC-SA,small,132,3266,training
+36986,Sleep.,Hip-Hop,Black Ant,CC BY-NC-SA,small,105,4849,training
+36987,james p. funk 2,Hip-Hop,Black Ant,CC BY-NC-SA,small,76,3857,training
+36988,Damn.,Hip-Hop,Black Ant,CC BY-NC-SA,small,78,3421,training
+36990,Brain HOle 9,Hip-Hop,Black Ant,CC BY-NC-SA,small,101,3611,training
+36992,Space Goat Remix,Hip-Hop,Black Ant,CC BY-NC-SA,small,90,5436,training
+36994,Put it together,Hip-Hop,Black Ant,CC BY-NC-SA,small,132,4950,training
+36997,Abstract Concepts - What up in the streets,Hip-Hop,Black Ant,CC BY-NC-SA,small,164,6309,training
+36999,"Restaurant Concert, Song 3",International,Demiran Ćerimović and His Orkestar,CC BY-NC-SA,small,214,1408,training
+37041,Improvisation,Experimental,MV Carbon & Philip White,CC BY-NC-SA,small,261,2020,training
+37113,Very Scary (Part 2),Instrumental,Weirdomusic,CC BY-NC-SA,small,162,32232,training
+37119,Dark Hallway,Instrumental,Lee Rosevere,CC BY,small,119,10762,training
+37121,The Story of the Stairs,Experimental,Jeffrey Letterly,CC BY-NC-SA,small,193,4444,training
+37136,Don't Think I Don't Miss You,Pop,X-tokyo-river-god,CC BY-NC-SA,small,219,2711,training
+37141,Eller,Instrumental,Urban Inbreed,CC BY-NC-SA,small,171,5470,training
+37368,Fisherman's Friend,Pop,Útidúr,CC BY-NC-SA,small,288,1451,training
+37369,Grasping for Thoughts,Pop,Útidúr,CC BY-NC-SA,small,197,2818,training
+37416,Octo Gate,Hip-Hop,Church Of When The Shit Hits The Fan,CC BY-NC-SA,small,181,1549,training
+37417,Locust Ritual,Hip-Hop,Church Of When The Shit Hits The Fan,CC BY-NC-SA,small,292,1592,training
+37423,Crimson Snow,Hip-Hop,Church Of When The Shit Hits The Fan,CC BY-NC-SA,small,357,1985,training
+37538,Latin Electronico,Experimental,The Superfools,CC BY-NC-SA,small,330,2181,training
+37592,Tablespoon Cataract,Rock,The Communion,CC BY-NC-SA,small,309,2492,training
+37920,8 Bit Raceway,Electronic,Wizwars,CC BY-NC-SA,small,212,6318,training
+38312,A72,Experimental,James Yates,CC BY-NC-SA,small,280,1994,training
+38326,Tchakare Kanyembe track 03,International,Tchakare Kanyembe,CC BY-NC-SA,small,263,4405,training
+38361,First Wind,Folk,A Way,CC BY-NC-SA,small,152,922,training
+38362,Around Under,Folk,A Way,CC BY-NC-SA,small,334,850,training
+38363,Conclusion,Folk,A Way,CC BY-NC-SA,small,356,653,training
+38878,Traveller,Electronic,Anders Ilar,CC BY-NC-SA,small,357,3985,training
+38964,The Robots,Experimental,Talulah Lotus,CC BY-NC-SA,small,200,783,training
+38965,Lullaby,Experimental,Talulah Lotus,CC BY-NC-SA,small,102,823,training
+38966,Horrorphone,Experimental,Talulah Lotus,CC BY-NC-SA,small,268,1921,training
+38967,Spooky,Experimental,Talulah Lotus,CC BY-NC-SA,small,171,1491,training
+39188,Get Wright With Gould (more Surfjams with Sufjan),Experimental,U Can Unlearn Guitar,CC BY-NC-SA,small,306,737,training
+39278,"Chicago, Etc.",Experimental,U Can Unlearn Guitar,CC BY-NC-SA,small,214,735,training
+39291,Citylife (Meme vs Xan),Electronic,Meme,CC BY-SA,small,249,7689,training
+39316,Hart Island,Experimental,John Badger & The Moustache Riders of Doom,CC BY-NC-SA,small,549,745,test
+39317,Brave New World,Experimental,John Badger & The Moustache Riders of Doom,CC BY-NC-SA,small,216,703,test
+39318,A Dream of Heaven in a Terminal Ward,Experimental,John Badger & The Moustache Riders of Doom,CC BY-NC-SA,small,543,1047,test
+39357,Waragine a ragine,International,Dubosmium,CC BY-NC-SA,small,339,2917,training
+39378,Most Polite are Imaginary My Friends (R Knot-sh!),Experimental,U Can Unlearn Guitar,CC BY-NC-SA,small,279,782,training
+39484,Minoree,Experimental,U Can Unlearn Guitar,CC BY-NC-SA,small,311,1160,training
+39488,CELTIC IN BRAZIL,Folk,Jay Martinez,CC BY-NC-SA,small,485,8244,training
+39658,Hott R Nott,Pop,Quiet Hooves,CC BY-NC-SA,small,158,2257,training
+39659,Good Moves,Pop,Quiet Hooves,CC BY-NC-SA,small,204,3490,training
+39660,Womb,Pop,Quiet Hooves,CC BY-NC-SA,small,225,1716,training
+39661,AVP,Pop,Quiet Hooves,CC BY-NC-SA,small,188,3499,training
+39662,Bigg Boy,Pop,Quiet Hooves,CC BY-NC-SA,small,158,2848,training
+39663,Til It Stops Talkin,Pop,Quiet Hooves,CC BY-NC-SA,small,222,2052,training
+39664,My Girl,Pop,Quiet Hooves,CC BY-NC-SA,small,124,6740,training
+39665,Can't Catch A Break,Pop,Quiet Hooves,CC BY-NC-SA,small,158,7196,training
+39666,Meals On Wheels,Pop,Quiet Hooves,CC BY-NC-SA,small,186,7327,training
+39667,Your Troubles + Feelin Down,Pop,Quiet Hooves,CC BY-NC-SA,small,376,3535,training
+39875,Sexual Energy,Experimental,Uton,CC BY-NC-SA,small,454,946,training
+39900,Air Stairs,Experimental,Uton,CC BY-NC-SA,small,391,647,training
+39904,As The Times Ends Comes The Fire,Experimental,Uton,CC BY-NC-SA,small,503,1033,training
+40121,Last Chants,Experimental,Sun Araw,CC BY-NC-SA,small,455,2705,training
+40122,Deep Cover,Experimental,Sun Araw,CC BY-NC-SA,small,489,12310,training
+40123,Heavy Deeds,Experimental,Sun Araw,CC BY-NC-SA,small,599,3373,training
+40139,Horror,Rock,Krestovsky,CC BY-NC-SA,small,225,2530,training
+40141,"A Sure Thing (""wedding song"")",Rock,Krestovsky,CC BY-NC-SA,small,331,2510,training
+40180,Sweet Lily,Experimental,Kuuleminen Asiat,CC BY-NC-SA,small,210,850,training
+40182,Wires On Words,Experimental,Kuuleminen Asiat,CC BY-NC-SA,small,331,872,training
+40229,The Sound & The Sea,Folk,Big Blood,CC BY-NC-SA,small,427,1569,test
+40230,Lay Your Head On The Rails (& Comeback),Folk,Big Blood,CC BY-NC-SA,small,268,949,test
+40231,Mouth of Seven Tongues,Folk,Big Blood,CC BY-NC-SA,small,77,729,test
+40232,South of Portland,Folk,Big Blood,CC BY-NC-SA,small,80,1098,test
+40233,Destin Rain,Folk,Big Blood,CC BY-NC-SA,small,378,1739,test
+40234,Oh My Child,Folk,Big Blood,CC BY-NC-SA,small,107,6385,test
+40235,"This is Record, OK?",Folk,Big Blood,CC BY-NC-SA,small,70,1812,test
+40236,Waiting Is ...,Folk,Big Blood,CC BY-NC-SA,small,278,1649,test
+40237,Moo-Hoo,Folk,Big Blood,CC BY-NC-SA,small,87,1764,test
+40238,AIRAID AIR RAID,Folk,Big Blood,CC BY-NC-SA,small,128,1911,test
+40239,She-Wander(er),Folk,Big Blood,CC BY-NC-SA,small,358,3418,test
+40240,Creepin' Crazy Time,Folk,Big Blood,CC BY-NC-SA,small,272,5798,test
+40241,Reverse Hymnal,Folk,Big Blood,CC BY-NC-SA,small,293,2854,test
+40242,Song for RO-HE-GE,Folk,Big Blood,CC BY-NC-SA,small,373,1753,test
+40243,Coming Home Pt. III,Folk,Big Blood,CC BY-NC-SA,small,373,2304,test
+40244,... Is All We Have,Folk,Big Blood,CC BY-NC-SA,small,301,3174,test
+40245,Ringers in the Fold,Folk,Big Blood,CC BY-NC-SA,small,433,3986,test
+40509,Light Field (excerpt),Experimental,Richard Garet,CC BY-NC-SA,small,190,2326,training
+40598,How Interesting! How Bizarre!,Experimental,Honey Trappists,CC BY-NC-SA,small,326,1317,training
+40654,A Boat in the Fog and a Battle,Instrumental,Albert Glasser,CC BY-NC-SA,small,597,4646,validation
+40655,The Dragon,Instrumental,Albert Glasser,CC BY-NC-SA,small,198,3335,validation
+40656,Into The Sewers,Instrumental,Albert Glasser,CC BY-NC-SA,small,140,2106,validation
+40657,Opium,Instrumental,Albert Glasser,CC BY-NC-SA,small,324,2902,validation
+40658,The Auction 1,Instrumental,Albert Glasser,CC BY-NC-SA,small,160,2036,validation
+40659,The Auction 2,Instrumental,Albert Glasser,CC BY-NC-SA,small,135,2939,validation
+40660,Pursuit,Instrumental,Albert Glasser,CC BY-NC-SA,small,186,4202,validation
+40683,Interloper,Electronic,Str8 Sounds,CC BY-NC-SA,small,572,5175,training
+40725,It's My Life Welcome To It,Electronic,Str8 Sounds,CC BY-NC-SA,small,374,8323,training
+40851,Moving Toward You,Electronic,Str8 Sounds,CC BY-NC-SA,small,367,11488,training
+40903,The Devil is a Sad Spirit,Rock,James Beaudreau,CC BY-NC-SA,small,270,7015,training
+40984,Crooked,Rock,Kristin Hersh,CC BY-NC-SA,small,191,5762,validation
+40985,Chocolate Makes You Happy,Rock,Xiu Xiu,CC BY-NC-SA,small,237,3865,training
+40986,Doubt,Rock,The Corin Tucker Band,CC BY-NC-SA,small,202,2287,training
+41054,RELAX,Experimental,Gouffre d un pôle à l autre,CC BY-NC-SA,small,307,665,training
+41095,The Lonely Smurfer,Rock,Johnny Hawaii,CC BY-NC-SA,small,243,13527,training
+41147,Anti War Mindbot,Electronic,Str8 Sounds,CC BY-NC-SA,small,396,14390,training
+41191,Candyboy,Folk,Weyes Blood,CC BY-NC-SA,small,567,1900,training
+41192,Storms That Breed,Folk,Weyes Blood,CC BY-NC-SA,small,396,670,training
+41310,Mercury Spring,Folk,Funny Cry Happy,CC BY-NC-SA,small,199,5702,test
+41381,CREEPEOPLE,Pop,Phemale,CC BY-NC-SA,small,246,411,validation
+41819,A SAD KID,Pop,Phemale,CC BY-NC-SA,small,229,640,validation
+41820,THE FASTEST CAR,Pop,Phemale,CC BY-NC-SA,small,259,475,validation
+41825,THE DEADLIEST CAR (HAUNTED),Pop,Phemale,CC BY-NC-SA,small,286,449,validation
+41961,Chasmaeon,Rock,Ga'an,CC BY-NC-SA,small,421,16891,training
+41962,Living Tribunal,Rock,Ga'an,CC BY-NC-SA,small,492,4293,training
+41965,Servant Eye,Rock,Ga'an,CC BY-NC-SA,small,391,5235,training
+42040,Enjoy Your Holiday,Hip-Hop,Coolzey,CC BY-NC-SA,small,211,2387,test
+42045,The Great Break-off,Hip-Hop,The Insider,CC BY-SA,small,166,3717,training
+42310,Sumar (intro),Rock,Lockerbie,CC BY-NC-SA,small,242,3109,training
+42751,Butterfly,Pop,Delicate Steve,CC BY-NC-SA,small,254,56769,training
+42761,BLACK FOREST,Rock,voyageurs,CC BY,small,278,1930,training
+42789,SLEEPING OUTDOORS,Rock,voyageurs,CC BY,small,229,2503,training
+42844,Men Don't Cry,Rock,Waylon Thornton and the Heavy Hands,CC BY-NC-SA,small,124,5237,validation
+42851,Manson Halloween,Rock,Waylon Thornton and the Heavy Hands,CC BY-NC-SA,small,69,2133,validation
+42911,MEDICAL SEX,Pop,Phemale,CC BY-NC-SA,small,198,761,validation
+42914,BLOWN,Pop,Phemale,CC BY-NC-SA,small,142,773,validation
+42915,FACE FARM,Pop,Phemale,CC BY-NC-SA,small,176,588,validation
+42966,Kids,Experimental,Cave Bears,CC BY-NC-SA,small,130,853,training
+42984,Lamp Happy Camp,Experimental,Cave Bears,CC BY-NC-SA,small,81,796,training
+43063,nature prevails,Experimental,Chuck Bettis,CC BY-NC-SA,small,101,563,training
+43172,Koka,International,Kiran Ahluwalia,CC BY-NC-SA,small,246,5841,training
+43173,Meri Gori Gori,International,Kiran Ahluwalia,CC BY-NC-SA,small,304,5587,training
+43585,Rumelaj,International,Rozsa has become... Madárka,CC BY-NC-SA,small,178,1707,training
+43586,Nacht en gan Eden,International,Rozsa has become... Madárka,CC BY-NC-SA,small,150,1525,training
+43587,Arrol Alol,International,Rozsa has become... Madárka,CC BY-NC-SA,small,236,1455,training
+43588,L'chaim,International,Rozsa has become... Madárka,CC BY-NC-SA,small,149,2083,training
+43589,Bubamara,International,Rozsa has become... Madárka,CC BY-NC-SA,small,167,2071,training
+43590,Vlasko,International,Rozsa has become... Madárka,CC BY-NC-SA,small,222,2708,training
+43598,Amari szi Amari,International,Rozsa has become... Madárka,CC BY-NC-SA,small,163,3707,training
+43599,Goldenshteyn,International,Rozsa has become... Madárka,CC BY-NC-SA,small,135,4192,training
+43600,"Repülj Madar, Repülj",International,Rozsa has become... Madárka,CC BY-NC-SA,small,156,5692,training
+43608,15 minute exorcise (excerpt),Experimental,Prince Rama,CC BY-NC-SA,small,238,1385,training
+43691,Nirvana,Experimental,Eok,CC BY-NC-SA,small,354,1552,validation
+43761,Me so horny 2,Folk,Kreamy 'Lectric Santa,CC BY-NC-SA,small,275,9983,training
+43843,Sickly Brazil,Folk,Kreamy 'Lectric Santa,CC BY-NC-SA,small,147,2717,training
+43883,crickets,Experimental,Myo,CC BY-SA,small,328,1552,training
+43886,gunfight at natural history museum,Experimental,Myo,CC BY-SA,small,358,872,training
+43962,At the Foothills,Folk,James Beaudreau,CC BY-NC-SA,small,170,4094,training
+43965,American Gothic,Folk,James Beaudreau,CC BY-NC-SA,small,197,2575,training
+44092,Future Paths,Electronic,8 Bit Weapon,CC BY-NC-SA,small,176,10548,training
+44169,Absence of Day and Night 1,Experimental,Morgan Craft,CC BY-SA,small,184,1009,training
+44342,The Path,Experimental,Ambient Fabric,CC BY-NC-SA,small,394,1288,training
+44347,Lanternhouse II,Experimental,Clutter,CC BY-NC-SA,small,474,848,training
+44354,British Steam,Experimental,Graham Dunning,CC BY-NC-SA,small,377,687,training
+44355,Library,Experimental,Gurdonark,CC BY-NC-SA,small,192,1135,validation
+44795,Space Machine,Experimental,René Vis,CC BY-NC-SA,small,196,1542,training
+44801,The Voyage,Experimental,Rushjet1,CC BY-NC-SA,small,120,2849,training
+44802,Shiny Spaceship,Experimental,8-Bit Ninjas,CC BY-NC-SA,small,262,19853,validation
+44803,Spaceship Ride Through the Kitchen,Experimental,W!zardK!d,CC BY-NC-SA,small,85,4380,training
+44804,Helix Nebula,Experimental,Anamanaguchi,CC BY-NC-SA,small,173,5555,training
+44917,I'm So Glad,Rock,Apache Dropout,CC BY-NC-SA,small,155,2453,training
+44918,Teenager,Rock,Apache Dropout,CC BY-NC-SA,small,140,9424,training
+44947,La Mujer de Antonio,International,SONGO 21,CC BY-NC-SA,small,318,22051,training
+44948,Donde Estabas-tu ?,International,SONGO 21,CC BY-NC-SA,small,247,21782,training
+44949,Fallaste al sacar tu cuenta,International,SONGO 21,CC BY-NC-SA,small,304,20203,training
+44950,Amor Y Felicidad,International,SONGO 21,CC BY-NC-SA,small,283,25821,training
+44951,De Cuba,International,SONGO 21,CC BY-NC-SA,small,233,32413,training
+44952,Opening para Songo 21,International,SONGO 21,CC BY-NC-SA,small,152,63770,training
+45055,Pesnya Marka,Rock,I Drug Moy Gruzovik...,CC BY-NC-SA,small,326,31144,validation
+45119,BETTER SCIENCE,Pop,Phemale,CC BY-NC-SA,small,389,624,validation
+45122,SPACEBRAIN,Pop,Phemale,CC BY-NC-SA,small,193,446,validation
+45125,ONLYGIRL,Pop,Phemale,CC BY-NC-SA,small,214,978,validation
+45126,TAJ'S THEME,Pop,Phemale,CC BY-NC-SA,small,108,481,validation
+45127,MUD BUDDIES,Pop,Phemale,CC BY-NC-SA,small,213,467,validation
+45128,HHHHOTEL,Pop,Phemale,CC BY-NC-SA,small,238,400,validation
+45335,Billy Ocean,Pop,Baby Jazz,CC BY-NC-SA,small,264,1787,training
+45387,Come Fly With Me,Instrumental,Blear Moon,CC BY-NC-SA,small,158,2926,training
+45388,I'm Not Ready Right Now,Instrumental,Blear Moon,CC BY-NC-SA,small,134,2154,training
+45389,Nort rv.,Instrumental,Blear Moon,CC BY-NC-SA,small,159,5707,training
+45390,Le Banc Dans Le Bois,Instrumental,Blear Moon,CC BY-NC-SA,small,245,1857,training
+45391,Like Summer Tempests Came His Tears,Instrumental,Blear Moon,CC BY-NC-SA,small,89,2230,training
+45392,Intracellularisan,Instrumental,Blear Moon,CC BY-NC-SA,small,393,1636,training
+45393,Le dernier,Instrumental,Blear Moon,CC BY-NC-SA,small,460,1647,training
+45508,Play (Intro),Electronic,2NRO8OT,CC BY-NC-SA,small,109,4062,training
+45934,Melancholic Depression,Experimental,Rune Martinsen,CC BY-NC-SA,small,357,824,test
+45941,Soul Eater Codex,Experimental,Vladimír Hirsch,CC BY-NC-SA,small,487,703,training
+46043,Florence and the Machine,Experimental,Ergo Phizmiz,CC BY-NC-SA,small,295,1338,training
+46058,Scene From A Forest Height,Experimental,The Noisettes,CC BY-NC-SA,small,338,1621,training
+46068,378,Experimental,Catalyst Fantasy,CC BY-NC-SA,small,194,725,training
+46157,over and under,Electronic,Antiphon,CC BY-SA,small,168,22519,training
+46158,slow motion,Electronic,Earsmack,CC BY-SA,small,285,8082,training
+46159,All Tremors Cease (lokey's imminent revision),Electronic,Erin Dingle,CC BY-SA,small,198,4084,training
+46160,kaze no tani no naushika,Electronic,Poorpot,CC BY-SA,small,232,6879,training
+46161,Rain on umbrella,Experimental,BinauralDiaries,CC BY-NC-SA,small,131,9856,training
+46162,Ueno Bells of Time,Experimental,BinauralDiaries,CC BY-NC-SA,small,186,8489,training
+46238,chill goth alternative freak,Experimental,Amil Byleckie,CC BY-NC-SA,small,64,1004,training
+46241,"hi, meet my meat",Experimental,Amil Byleckie,CC BY-NC-SA,small,60,1423,training
+46611,Island on Fire,Experimental,Monster Rally,CC BY-NC-SA,small,166,14441,training
+46736,Out of Time,Pop,Palloc,CC BY-NC-SA,small,285,792,training
+47032,Amazing Grace,Rock,Waylon Thornton and the Heavy Hands,CC BY-NC-SA,small,66,3825,validation
+47100,02 Le bon dieu et les filles hippies,Pop,Manuel J Grotesk,CC BY-NC-SA,small,120,703,validation
+47260,Ode To A Baby Snowstorm,Electronic,Ghostly Dust Machine,CC BY-NC-SA,small,155,43907,training
+47506,Let Me Be Your Bride,Folk,Virgin of the Birds,CC BY-NC-SA,small,246,1975,training
+47628,A Promise,Folk,Clever Elsa,CC BY-NC-SA,small,235,766,test
+47657,Post,Electronic,Haute Culture,CC BY-NC-SA,small,349,3659,training
+47658,Chordial,Electronic,Haute Culture,CC BY-NC-SA,small,366,5087,training
+47659,Erinnerung (snippet Nina Simone),Electronic,Haute Culture,CC BY-NC-SA,small,327,3637,training
+47660,Gladias,Electronic,Haute Culture,CC BY-NC-SA,small,288,8877,training
+47661,una vez mas,Folk,Onda bidón,CC BY-NC-SA,small,143,759,training
+47662,alexandra,Folk,Onda bidón,CC BY-NC-SA,small,129,701,training
+47663,me aborrezco cada vez que llego tarde,Folk,Onda bidón,CC BY-NC-SA,small,171,635,training
+47665,My Darling Grace,Pop,Berlinist,CC BY-NC-SA,small,258,1199,training
+47666,No Love Song,Pop,Berlinist,CC BY-NC-SA,small,264,1484,training
+47916,Plumy Tale,Rock,Dumbo Gets Mad,CC BY-NC-SA,small,230,17767,training
+47921,Eclectic Prawn,Rock,Dumbo Gets Mad,CC BY-NC-SA,small,235,2352,training
+48307,Intrigue,Experimental,Ambient Fabric,CC BY-NC-SA,small,599,1309,training
+48317,Starling,Experimental,Gurdonark,CC BY-NC-SA,small,203,2714,validation
+48367,What It Is Impossible Not to Know and What It Is No Longer Permissible To Believe in the United States,Rock,Cloudkicker,CC BY-NC-SA,small,366,2336,training
+48368,A Hymn to the Projectile,Rock,Cloudkicker,CC BY-NC-SA,small,255,2079,training
+48369,One Enemy Among Twenty-Five Million Friends,Rock,Cloudkicker,CC BY-NC-SA,small,333,2051,training
+48437,TighsFactor,Electronic,Illocanblo,CC BY-NC-SA,small,225,4493,training
+48439,Panic,Electronic,Bass Assassin,CC BY-NC-SA,small,255,3852,training
+48440,BassAssassin,Electronic,Bass Assassin,CC BY-NC-SA,small,295,4398,training
+48442,8bitDetective,Electronic,Bass Assassin,CC BY-NC-SA,small,250,47994,training
+48443,SmurfPulser,Electronic,Illocanblo,CC BY-NC-SA,small,285,35345,training
+48444,au courant,Pop,AlexandreDavidGabriel,CC BY-NC-SA,small,174,530,training
+48446,pluie d'atome,Pop,AlexandreDavidGabriel,CC BY-NC-SA,small,537,383,training
+48450,4cordes,Pop,AlexandreDavidGabriel,CC BY-NC-SA,small,141,473,training
+48452,éventé,Pop,AlexandreDavidGabriel,CC BY-NC-SA,small,153,458,training
+48453,deux dents dehors,Pop,AlexandredavidgabrielMehdi,CC BY-NC-SA,small,414,466,training
+48454,la cravatte et le ventre,Pop,AlexandreDavidGabriel,CC BY-NC-SA,small,60,578,training
+48456,nez,Pop,AlexandreDavidGabriel,CC BY-NC-SA,small,146,855,training
+48457,poitrine épaules bassin,Pop,AlexandreDavidGabriel,CC BY-NC-SA,small,107,1027,training
+48462,"Awaken, Child",Electronic,Sycamore Drive,CC BY-NC-SA,small,102,6111,training
+48463,Happiness,Electronic,Sycamore Drive,CC BY-NC-SA,small,131,11325,training
+48464,The Waves Call Her Name,Electronic,Sycamore Drive,CC BY-NC-SA,small,97,6425,training
+48465,Ocean Breeze,Electronic,Sycamore Drive,CC BY-NC-SA,small,111,23628,training
+48466,Slumber,Electronic,Sycamore Drive,CC BY-NC-SA,small,200,11027,training
+48808,Local Boogie,Folk,Oblivian Substanshall,CC BY-NC-SA,small,65,4351,training
+48815,FUN,Folk,Oblivian Substanshall,CC BY-NC-SA,small,100,592,training
+48861,Skull Flower,Experimental,NaDa BaBa,CC BY-NC-SA,small,325,950,training
+48862,Thursday Morning In London (Falluja Mix),Experimental,NaDa BaBa,CC BY-NC-SA,small,345,1052,training
+48863,Thunder Wave,Experimental,NaDa BaBa,CC BY-NC-SA,small,157,1068,training
+48864,Visiting Brett Whiteley In Hell,Experimental,NaDa BaBa,CC BY-NC-SA,small,236,1018,training
+48865,Mad To Talk,Experimental,NaDa BaBa,CC BY-NC-SA,small,315,1485,training
+48931,School's Out (Columbine Mix),Experimental,Sweden,CC BY-NC-SA,small,178,826,training
+48990,Rompuy Reggae,Rock,Les Baudouins Morts,CC BY-NC-SA,small,201,2477,test
+48999,Dark Horse,Rock,The Great Wilderness,CC BY-NC-SA,small,524,4070,test
+49061,Track 03,Experimental,Justice Yeldham,CC BY-NC-SA,small,328,1516,training
+49062,Track 04,Experimental,Justice Yeldham,CC BY-NC-SA,small,400,1424,training
+49064,Track 06,Experimental,Justice Yeldham,CC BY-NC-SA,small,163,5329,training
+49066,I Just Can't Stand Wangdangers,Experimental,Justice Yeldham,CC BY-NC-SA,small,403,3516,training
+49067,Buscuit Basket,Experimental,Justice Yeldham,CC BY-NC-SA,small,466,5280,training
+49068,Knobranaut,Experimental,Justice Yeldham,CC BY-NC-SA,small,429,3489,training
+49070,Bologna Soundcheck 031105,Experimental,Justice Yeldham,CC BY-NC-SA,small,126,8750,training
+49071,038 Zwolle 090104,Experimental,Justice Yeldham,CC BY-NC-SA,small,353,3151,training
+49072,266 Chippendale 140706,Experimental,Justice Yeldham,CC BY-NC-SA,small,563,2735,training
+49073,267 Chippendale 220706,Experimental,Justice Yeldham,CC BY-NC-SA,small,522,6024,training
+49394,Pure Horror,Experimental,Volvox,CC BY-NC-SA,small,186,2621,training
+49401,Insect Horror,Experimental,Volvox,CC BY-NC-SA,small,113,2275,training
+49407,300104 hamburg,Experimental,Justice Yeldham,CC BY-NC-SA,small,272,8218,training
+49408,020604 beirut,Experimental,Justice Yeldham,CC BY-NC-SA,small,353,11409,training
